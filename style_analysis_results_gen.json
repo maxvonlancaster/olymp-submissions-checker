@@ -1,0 +1,4493 @@
+[
+  {
+    "avg_var_length": 3.111111111111111,
+    "comment_density": 0.07142857142857142,
+    "num_variables": 17,
+    "indentation_consistency": 0.04040404040404041,
+    "repetition_score": 0.07692307692307687,
+    "overexplanation_score": 3.0,
+    "file_name": "0.py"
+  },
+  {
+    "avg_var_length": 2.6153846153846154,
+    "comment_density": 0.06349206349206349,
+    "num_variables": 12,
+    "indentation_consistency": 0.0895625765890564,
+    "repetition_score": 0.21818181818181814,
+    "overexplanation_score": 7.0,
+    "file_name": "1.cpp"
+  },
+  {
+    "avg_var_length": 6.071428571428571,
+    "comment_density": 0.14285714285714285,
+    "num_variables": 13,
+    "indentation_consistency": 0.1111111111111111,
+    "repetition_score": 0.09090909090909094,
+    "overexplanation_score": 3.0,
+    "file_name": "10.py"
+  },
+  {
+    "avg_var_length": 2.7142857142857144,
+    "comment_density": 0.1111111111111111,
+    "num_variables": 6,
+    "indentation_consistency": 0.15187210769877996,
+    "repetition_score": 0.1724137931034483,
+    "overexplanation_score": 5.25,
+    "file_name": "100.cpp"
+  },
+  {
+    "avg_var_length": 4.406779661016949,
+    "comment_density": 0.022222222222222223,
+    "num_variables": 58,
+    "indentation_consistency": 0.013248979966075285,
+    "repetition_score": 0.12195121951219512,
+    "overexplanation_score": 3.0,
+    "file_name": "101.py"
+  },
+  {
+    "avg_var_length": 6.0,
+    "comment_density": 0.17647058823529413,
+    "num_variables": 12,
+    "indentation_consistency": 0.2396039603960396,
+    "repetition_score": 0.06666666666666665,
+    "overexplanation_score": 4.666666666666667,
+    "file_name": "102.py"
+  },
+  {
+    "avg_var_length": 2.0833333333333335,
+    "comment_density": 0.05454545454545454,
+    "num_variables": 11,
+    "indentation_consistency": 0.31034482758620696,
+    "repetition_score": 0.09090909090909094,
+    "overexplanation_score": 5.666666666666667,
+    "file_name": "103.cpp"
+  },
+  {
+    "avg_var_length": 3.5428571428571427,
+    "comment_density": 0.125,
+    "num_variables": 69,
+    "indentation_consistency": 0.05951506245407789,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 3.4,
+    "file_name": "104.py"
+  },
+  {
+    "avg_var_length": 4.6,
+    "comment_density": 0.1111111111111111,
+    "num_variables": 4,
+    "indentation_consistency": 0.2655737704918033,
+    "repetition_score": 0.125,
+    "overexplanation_score": 5.5,
+    "file_name": "105.cpp"
+  },
+  {
+    "avg_var_length": 5.181818181818182,
+    "comment_density": 0.07142857142857142,
+    "num_variables": 10,
+    "indentation_consistency": 0.21052631578947367,
+    "repetition_score": 0.08333333333333337,
+    "overexplanation_score": 3.0,
+    "file_name": "106.py"
+  },
+  {
+    "avg_var_length": 2.8181818181818183,
+    "comment_density": 0.03571428571428571,
+    "num_variables": 10,
+    "indentation_consistency": 0.07660422479075334,
+    "repetition_score": 0.16279069767441856,
+    "overexplanation_score": 9.5,
+    "file_name": "107.cpp"
+  },
+  {
+    "avg_var_length": 4.2023809523809526,
+    "comment_density": 0.022222222222222223,
+    "num_variables": 83,
+    "indentation_consistency": 0.051831375259156875,
+    "repetition_score": 0.05128205128205132,
+    "overexplanation_score": 3.0,
+    "file_name": "108.py"
+  },
+  {
+    "avg_var_length": 4.491525423728813,
+    "comment_density": 0.030303030303030304,
+    "num_variables": 58,
+    "indentation_consistency": 0.045372050816696916,
+    "repetition_score": 0.033333333333333326,
+    "overexplanation_score": 4.0,
+    "file_name": "109.py"
+  },
+  {
+    "avg_var_length": 3.6666666666666665,
+    "comment_density": 0.0625,
+    "num_variables": 8,
+    "indentation_consistency": 0.0833333333333333,
+    "repetition_score": 0.16216216216216217,
+    "overexplanation_score": 7.666666666666667,
+    "file_name": "11.cpp"
+  },
+  {
+    "avg_var_length": 7.142857142857143,
+    "comment_density": 0.0,
+    "num_variables": 6,
+    "indentation_consistency": 0.13941148094548958,
+    "repetition_score": 0.1428571428571429,
+    "overexplanation_score": 0,
+    "file_name": "110.cpp"
+  },
+  {
+    "avg_var_length": 2.875,
+    "comment_density": 0.041666666666666664,
+    "num_variables": 7,
+    "indentation_consistency": 0.25,
+    "repetition_score": 0.15000000000000002,
+    "overexplanation_score": 5.0,
+    "file_name": "111.cpp"
+  },
+  {
+    "avg_var_length": 6.238095238095238,
+    "comment_density": 0.25,
+    "num_variables": 20,
+    "indentation_consistency": 0.10101613867304243,
+    "repetition_score": 0.0625,
+    "overexplanation_score": 6.8,
+    "file_name": "112.py"
+  },
+  {
+    "avg_var_length": 3.6,
+    "comment_density": 0.5,
+    "num_variables": 4,
+    "indentation_consistency": 0.5,
+    "repetition_score": 0.5,
+    "overexplanation_score": 11.0,
+    "file_name": "113.py"
+  },
+  {
+    "avg_var_length": 2.9375,
+    "comment_density": 0.04918032786885246,
+    "num_variables": 15,
+    "indentation_consistency": 0.06450375021803595,
+    "repetition_score": 0.23529411764705888,
+    "overexplanation_score": 4.666666666666667,
+    "file_name": "114.cpp"
+  },
+  {
+    "avg_var_length": 5.0,
+    "comment_density": 0.0,
+    "num_variables": 4,
+    "indentation_consistency": 0.5,
+    "repetition_score": 0.5,
+    "overexplanation_score": 0,
+    "file_name": "115.py"
+  },
+  {
+    "avg_var_length": 2.739130434782609,
+    "comment_density": 0.045454545454545456,
+    "num_variables": 22,
+    "indentation_consistency": 0.14053716427232976,
+    "repetition_score": 0.19047619047619047,
+    "overexplanation_score": 3.0,
+    "file_name": "116.py"
+  },
+  {
+    "avg_var_length": 5.433333333333334,
+    "comment_density": 0.14285714285714285,
+    "num_variables": 29,
+    "indentation_consistency": 0.10112359550561797,
+    "repetition_score": 0.07692307692307687,
+    "overexplanation_score": 3.0,
+    "file_name": "117.py"
+  },
+  {
+    "avg_var_length": 6.2272727272727275,
+    "comment_density": 0.2,
+    "num_variables": 21,
+    "indentation_consistency": 0.06497500961168781,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 6.25,
+    "file_name": "118.py"
+  },
+  {
+    "avg_var_length": 2.5,
+    "comment_density": 0.06666666666666667,
+    "num_variables": 9,
+    "indentation_consistency": 0.10318471337579611,
+    "repetition_score": 0.19672131147540983,
+    "overexplanation_score": 7.4,
+    "file_name": "119.cpp"
+  },
+  {
+    "avg_var_length": 7.365853658536586,
+    "comment_density": 0.21875,
+    "num_variables": 40,
+    "indentation_consistency": 0.03605261364410823,
+    "repetition_score": 0.038461538461538436,
+    "overexplanation_score": 7.857142857142857,
+    "file_name": "12.py"
+  },
+  {
+    "avg_var_length": 5.611111111111111,
+    "comment_density": 0.2,
+    "num_variables": 17,
+    "indentation_consistency": 0.08908803373748023,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 5.25,
+    "file_name": "120.py"
+  },
+  {
+    "avg_var_length": 3.5090909090909093,
+    "comment_density": 0.09090909090909091,
+    "num_variables": 54,
+    "indentation_consistency": 0.04279564446695365,
+    "repetition_score": 0.033333333333333326,
+    "overexplanation_score": 4.0,
+    "file_name": "121.py"
+  },
+  {
+    "avg_var_length": 4.224299065420561,
+    "comment_density": 0.06382978723404255,
+    "num_variables": 106,
+    "indentation_consistency": 0.09866017052375156,
+    "repetition_score": 0.2093023255813954,
+    "overexplanation_score": 3.0,
+    "file_name": "122.py"
+  },
+  {
+    "avg_var_length": 9.272727272727273,
+    "comment_density": 0.15384615384615385,
+    "num_variables": 43,
+    "indentation_consistency": 0.0640316205533597,
+    "repetition_score": 0.032258064516129004,
+    "overexplanation_score": 5.333333333333333,
+    "file_name": "123.py"
+  },
+  {
+    "avg_var_length": 5.382352941176471,
+    "comment_density": 0.1956521739130435,
+    "num_variables": 33,
+    "indentation_consistency": 0.10295017750030606,
+    "repetition_score": 0.027027027027026973,
+    "overexplanation_score": 8.333333333333334,
+    "file_name": "124.py"
+  },
+  {
+    "avg_var_length": 4.875,
+    "comment_density": 0.24324324324324326,
+    "num_variables": 7,
+    "indentation_consistency": 0.13152400835073072,
+    "repetition_score": 0.12903225806451613,
+    "overexplanation_score": 6.777777777777778,
+    "file_name": "125.cpp"
+  },
+  {
+    "avg_var_length": 4.271604938271605,
+    "comment_density": 0.07692307692307693,
+    "num_variables": 80,
+    "indentation_consistency": 0.05314764198012932,
+    "repetition_score": 0.0444444444444444,
+    "overexplanation_score": 5.5,
+    "file_name": "126.py"
+  },
+  {
+    "avg_var_length": 5.444444444444445,
+    "comment_density": 0.025,
+    "num_variables": 8,
+    "indentation_consistency": 0.10671234614896591,
+    "repetition_score": 0.1875,
+    "overexplanation_score": 7.0,
+    "file_name": "127.cpp"
+  },
+  {
+    "avg_var_length": 7.594594594594595,
+    "comment_density": 0.13513513513513514,
+    "num_variables": 36,
+    "indentation_consistency": 0.042848664688427296,
+    "repetition_score": 0.03448275862068961,
+    "overexplanation_score": 4.8,
+    "file_name": "128.py"
+  },
+  {
+    "avg_var_length": 4.03030303030303,
+    "comment_density": 0.19047619047619047,
+    "num_variables": 32,
+    "indentation_consistency": 0.2396039603960396,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 6.75,
+    "file_name": "129.py"
+  },
+  {
+    "avg_var_length": 3.652173913043478,
+    "comment_density": 0.07142857142857142,
+    "num_variables": 68,
+    "indentation_consistency": 0.07477567298105683,
+    "repetition_score": 0.02631578947368418,
+    "overexplanation_score": 6.333333333333333,
+    "file_name": "13.py"
+  },
+  {
+    "avg_var_length": 2.466666666666667,
+    "comment_density": 0.09090909090909091,
+    "num_variables": 14,
+    "indentation_consistency": 0.5011135857461023,
+    "repetition_score": 0.1785714285714286,
+    "overexplanation_score": 8.0,
+    "file_name": "130.cpp"
+  },
+  {
+    "avg_var_length": 2.8333333333333335,
+    "comment_density": 0.04,
+    "num_variables": 5,
+    "indentation_consistency": 0.35101404056162255,
+    "repetition_score": 0.15000000000000002,
+    "overexplanation_score": 3.0,
+    "file_name": "131.cpp"
+  },
+  {
+    "avg_var_length": 6.542857142857143,
+    "comment_density": 0.0,
+    "num_variables": 34,
+    "indentation_consistency": 0.0528046775077654,
+    "repetition_score": 0.038461538461538436,
+    "overexplanation_score": 0,
+    "file_name": "132.py"
+  },
+  {
+    "avg_var_length": 6.333333333333333,
+    "comment_density": 0.0,
+    "num_variables": 2,
+    "indentation_consistency": 0.5,
+    "repetition_score": 0.5,
+    "overexplanation_score": 0,
+    "file_name": "133.py"
+  },
+  {
+    "avg_var_length": 3.272727272727273,
+    "comment_density": 0.2,
+    "num_variables": 21,
+    "indentation_consistency": 0.0955342001130582,
+    "repetition_score": 0.0625,
+    "overexplanation_score": 5.25,
+    "file_name": "134.py"
+  },
+  {
+    "avg_var_length": 4.424242424242424,
+    "comment_density": 0.23809523809523808,
+    "num_variables": 32,
+    "indentation_consistency": 0.2126537785588752,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 6.0,
+    "file_name": "135.py"
+  },
+  {
+    "avg_var_length": 1.6923076923076923,
+    "comment_density": 0.01639344262295082,
+    "num_variables": 12,
+    "indentation_consistency": 0.07478378836696627,
+    "repetition_score": 0.16326530612244894,
+    "overexplanation_score": 6.0,
+    "file_name": "136.cpp"
+  },
+  {
+    "avg_var_length": 4.205882352941177,
+    "comment_density": 0.13636363636363635,
+    "num_variables": 33,
+    "indentation_consistency": 0.25,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 7.0,
+    "file_name": "137.py"
+  },
+  {
+    "avg_var_length": 6.27906976744186,
+    "comment_density": 0.08571428571428572,
+    "num_variables": 42,
+    "indentation_consistency": 0.043642203756720906,
+    "repetition_score": 0.06666666666666665,
+    "overexplanation_score": 4.333333333333333,
+    "file_name": "138.py"
+  },
+  {
+    "avg_var_length": 1.4,
+    "comment_density": 0.058823529411764705,
+    "num_variables": 4,
+    "indentation_consistency": 0.270718232044199,
+    "repetition_score": 0.15384615384615385,
+    "overexplanation_score": 4.0,
+    "file_name": "139.cpp"
+  },
+  {
+    "avg_var_length": 4.666666666666667,
+    "comment_density": 0.11627906976744186,
+    "num_variables": 8,
+    "indentation_consistency": 0.051460452904496225,
+    "repetition_score": 0.1578947368421053,
+    "overexplanation_score": 9.4,
+    "file_name": "14.cpp"
+  },
+  {
+    "avg_var_length": 5.321428571428571,
+    "comment_density": 0.1111111111111111,
+    "num_variables": 27,
+    "indentation_consistency": 0.09433962264150944,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 4.5,
+    "file_name": "140.py"
+  },
+  {
+    "avg_var_length": 2.7,
+    "comment_density": 0.05263157894736842,
+    "num_variables": 29,
+    "indentation_consistency": 0.25,
+    "repetition_score": 0.0625,
+    "overexplanation_score": 3.0,
+    "file_name": "141.py"
+  },
+  {
+    "avg_var_length": 1.4166666666666667,
+    "comment_density": 0.030303030303030304,
+    "num_variables": 11,
+    "indentation_consistency": 0.09883352042559415,
+    "repetition_score": 0.2545454545454545,
+    "overexplanation_score": 8.0,
+    "file_name": "142.cpp"
+  },
+  {
+    "avg_var_length": 6.0,
+    "comment_density": 0.20512820512820512,
+    "num_variables": 49,
+    "indentation_consistency": 0.08571428571428574,
+    "repetition_score": 0.032258064516129004,
+    "overexplanation_score": 7.375,
+    "file_name": "143.py"
+  },
+  {
+    "avg_var_length": 4.75,
+    "comment_density": 0.045454545454545456,
+    "num_variables": 7,
+    "indentation_consistency": 0.16760525610083132,
+    "repetition_score": 0.21621621621621623,
+    "overexplanation_score": 4.5,
+    "file_name": "144.cpp"
+  },
+  {
+    "avg_var_length": 3.740740740740741,
+    "comment_density": 0.0273972602739726,
+    "num_variables": 26,
+    "indentation_consistency": 0.11756168359941953,
+    "repetition_score": 0.2857142857142857,
+    "overexplanation_score": 3.0,
+    "file_name": "145.cpp"
+  },
+  {
+    "avg_var_length": 10.0,
+    "comment_density": 0.4375,
+    "num_variables": 12,
+    "indentation_consistency": 1.0,
+    "repetition_score": 0.08333333333333337,
+    "overexplanation_score": 5.571428571428571,
+    "file_name": "146.py"
+  },
+  {
+    "avg_var_length": 3.2857142857142856,
+    "comment_density": 0.05263157894736842,
+    "num_variables": 48,
+    "indentation_consistency": 0.039842597147073285,
+    "repetition_score": 0.0625,
+    "overexplanation_score": 3.0,
+    "file_name": "147.py"
+  },
+  {
+    "avg_var_length": 6.344827586206897,
+    "comment_density": 0.06896551724137931,
+    "num_variables": 28,
+    "indentation_consistency": 0.09404490725675238,
+    "repetition_score": 0.08333333333333337,
+    "overexplanation_score": 6.0,
+    "file_name": "148.py"
+  },
+  {
+    "avg_var_length": 5.363636363636363,
+    "comment_density": 0.0,
+    "num_variables": 32,
+    "indentation_consistency": 0.06183680936699599,
+    "repetition_score": 0.04166666666666663,
+    "overexplanation_score": 0,
+    "file_name": "149.py"
+  },
+  {
+    "avg_var_length": 3.9,
+    "comment_density": 0.0,
+    "num_variables": 59,
+    "indentation_consistency": 0.16025641025641021,
+    "repetition_score": 0.04166666666666663,
+    "overexplanation_score": 0,
+    "file_name": "15.py"
+  },
+  {
+    "avg_var_length": 2.230769230769231,
+    "comment_density": 0.015873015873015872,
+    "num_variables": 12,
+    "indentation_consistency": 0.07458143074581428,
+    "repetition_score": 0.14583333333333337,
+    "overexplanation_score": 6.0,
+    "file_name": "150.cpp"
+  },
+  {
+    "avg_var_length": 4.194444444444445,
+    "comment_density": 0.058823529411764705,
+    "num_variables": 35,
+    "indentation_consistency": 0.07246376811594203,
+    "repetition_score": 0.1333333333333333,
+    "overexplanation_score": 3.0,
+    "file_name": "151.py"
+  },
+  {
+    "avg_var_length": 4.5,
+    "comment_density": 0.05714285714285714,
+    "num_variables": 9,
+    "indentation_consistency": 0.3197519929140833,
+    "repetition_score": 0.13793103448275867,
+    "overexplanation_score": 6.0,
+    "file_name": "152.cpp"
+  },
+  {
+    "avg_var_length": 2.0,
+    "comment_density": 0.015873015873015872,
+    "num_variables": 13,
+    "indentation_consistency": 0.05857849518354595,
+    "repetition_score": 0.2407407407407407,
+    "overexplanation_score": 8.0,
+    "file_name": "153.cpp"
+  },
+  {
+    "avg_var_length": 5.111111111111111,
+    "comment_density": 0.0,
+    "num_variables": 8,
+    "indentation_consistency": 0.11695812610300016,
+    "repetition_score": 0.1875,
+    "overexplanation_score": 0,
+    "file_name": "154.cpp"
+  },
+  {
+    "avg_var_length": 2.1538461538461537,
+    "comment_density": 0.01639344262295082,
+    "num_variables": 12,
+    "indentation_consistency": 0.0760175467821645,
+    "repetition_score": 0.15217391304347827,
+    "overexplanation_score": 7.0,
+    "file_name": "155.cpp"
+  },
+  {
+    "avg_var_length": 4.044776119402985,
+    "comment_density": 0.05405405405405406,
+    "num_variables": 66,
+    "indentation_consistency": 0.052558370591157484,
+    "repetition_score": 0.06666666666666665,
+    "overexplanation_score": 3.0,
+    "file_name": "156.py"
+  },
+  {
+    "avg_var_length": 4.0,
+    "comment_density": 0.05,
+    "num_variables": 6,
+    "indentation_consistency": 0.10832587287376898,
+    "repetition_score": 0.1875,
+    "overexplanation_score": 5.5,
+    "file_name": "157.cpp"
+  },
+  {
+    "avg_var_length": 5.444444444444445,
+    "comment_density": 0.022727272727272728,
+    "num_variables": 8,
+    "indentation_consistency": 0.14342629482071714,
+    "repetition_score": 0.17647058823529416,
+    "overexplanation_score": 8.0,
+    "file_name": "158.cpp"
+  },
+  {
+    "avg_var_length": 3.727272727272727,
+    "comment_density": 0.04878048780487805,
+    "num_variables": 10,
+    "indentation_consistency": 0.10931435963777492,
+    "repetition_score": 0.20588235294117652,
+    "overexplanation_score": 8.5,
+    "file_name": "159.cpp"
+  },
+  {
+    "avg_var_length": 1.3571428571428572,
+    "comment_density": 0.2,
+    "num_variables": 13,
+    "indentation_consistency": 0.21951219512195122,
+    "repetition_score": 0.11111111111111116,
+    "overexplanation_score": 3.0,
+    "file_name": "16.py"
+  },
+  {
+    "avg_var_length": 3.2857142857142856,
+    "comment_density": 0.10344827586206896,
+    "num_variables": 6,
+    "indentation_consistency": 0.28089887640449435,
+    "repetition_score": 0.13636363636363635,
+    "overexplanation_score": 5.0,
+    "file_name": "160.cpp"
+  },
+  {
+    "avg_var_length": 2.5,
+    "comment_density": 0.02,
+    "num_variables": 9,
+    "indentation_consistency": 0.07439186200796115,
+    "repetition_score": 0.17500000000000004,
+    "overexplanation_score": 4.0,
+    "file_name": "161.cpp"
+  },
+  {
+    "avg_var_length": 4.176470588235294,
+    "comment_density": 0.03225806451612903,
+    "num_variables": 67,
+    "indentation_consistency": 0.0443754718563879,
+    "repetition_score": 0.0357142857142857,
+    "overexplanation_score": 6.0,
+    "file_name": "162.py"
+  },
+  {
+    "avg_var_length": 1.1666666666666667,
+    "comment_density": 0.017857142857142856,
+    "num_variables": 11,
+    "indentation_consistency": 0.1056752586157627,
+    "repetition_score": 0.2222222222222222,
+    "overexplanation_score": 6.0,
+    "file_name": "163.cpp"
+  },
+  {
+    "avg_var_length": 8.666666666666666,
+    "comment_density": 0.19047619047619047,
+    "num_variables": 26,
+    "indentation_consistency": 0.09272030651340997,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 5.75,
+    "file_name": "164.py"
+  },
+  {
+    "avg_var_length": 5.5,
+    "comment_density": 0.14285714285714285,
+    "num_variables": 5,
+    "indentation_consistency": 0.08925318761384336,
+    "repetition_score": 0.15000000000000002,
+    "overexplanation_score": 9.666666666666666,
+    "file_name": "165.cpp"
+  },
+  {
+    "avg_var_length": 1.9444444444444444,
+    "comment_density": 0.1,
+    "num_variables": 17,
+    "indentation_consistency": 0.21951219512195122,
+    "repetition_score": 0.11111111111111116,
+    "overexplanation_score": 3.0,
+    "file_name": "166.py"
+  },
+  {
+    "avg_var_length": 4.636363636363637,
+    "comment_density": 0.1111111111111111,
+    "num_variables": 32,
+    "indentation_consistency": 0.2293577981651376,
+    "repetition_score": 0.0714285714285714,
+    "overexplanation_score": 3.0,
+    "file_name": "167.py"
+  },
+  {
+    "avg_var_length": 4.75,
+    "comment_density": 0.0,
+    "num_variables": 3,
+    "indentation_consistency": 0.14053716427232976,
+    "repetition_score": 0.21739130434782605,
+    "overexplanation_score": 0,
+    "file_name": "168.cpp"
+  },
+  {
+    "avg_var_length": 6.0,
+    "comment_density": 0.0,
+    "num_variables": 5,
+    "indentation_consistency": 0.5,
+    "repetition_score": 0.5,
+    "overexplanation_score": 0,
+    "file_name": "169.py"
+  },
+  {
+    "avg_var_length": 6.375,
+    "comment_density": 0.02702702702702703,
+    "num_variables": 39,
+    "indentation_consistency": 0.04839030866246266,
+    "repetition_score": 0.06451612903225812,
+    "overexplanation_score": 3.0,
+    "file_name": "17.py"
+  },
+  {
+    "avg_var_length": 3.411764705882353,
+    "comment_density": 0.022222222222222223,
+    "num_variables": 16,
+    "indentation_consistency": 0.08298895738771091,
+    "repetition_score": 0.2432432432432432,
+    "overexplanation_score": 8.5,
+    "file_name": "170.cpp"
+  },
+  {
+    "avg_var_length": 2.8333333333333335,
+    "comment_density": 0.05,
+    "num_variables": 5,
+    "indentation_consistency": 0.06818181818181819,
+    "repetition_score": 0.18181818181818177,
+    "overexplanation_score": 10.0,
+    "file_name": "171.cpp"
+  },
+  {
+    "avg_var_length": 4.875,
+    "comment_density": 0.038461538461538464,
+    "num_variables": 7,
+    "indentation_consistency": 0.3243761996161229,
+    "repetition_score": 0.1428571428571429,
+    "overexplanation_score": 3.0,
+    "file_name": "172.cpp"
+  },
+  {
+    "avg_var_length": 4.2023809523809526,
+    "comment_density": 0.03773584905660377,
+    "num_variables": 83,
+    "indentation_consistency": 0.05002245906325289,
+    "repetition_score": 0.0444444444444444,
+    "overexplanation_score": 3.5,
+    "file_name": "173.py"
+  },
+  {
+    "avg_var_length": 2.0,
+    "comment_density": 0.07692307692307693,
+    "num_variables": 39,
+    "indentation_consistency": 0.04040404040404041,
+    "repetition_score": 0.08333333333333337,
+    "overexplanation_score": 3.0,
+    "file_name": "174.py"
+  },
+  {
+    "avg_var_length": 6.448979591836735,
+    "comment_density": 0.1794871794871795,
+    "num_variables": 48,
+    "indentation_consistency": 0.07545984746523104,
+    "repetition_score": 0.032258064516129004,
+    "overexplanation_score": 7.142857142857143,
+    "file_name": "175.py"
+  },
+  {
+    "avg_var_length": 5.0,
+    "comment_density": 0.06896551724137931,
+    "num_variables": 6,
+    "indentation_consistency": 0.28089887640449435,
+    "repetition_score": 0.20833333333333337,
+    "overexplanation_score": 5.5,
+    "file_name": "176.cpp"
+  },
+  {
+    "avg_var_length": 6.0,
+    "comment_density": 0.07692307692307693,
+    "num_variables": 7,
+    "indentation_consistency": 0.11030082041932543,
+    "repetition_score": 0.16129032258064513,
+    "overexplanation_score": 9.333333333333334,
+    "file_name": "177.cpp"
+  },
+  {
+    "avg_var_length": 2.4615384615384617,
+    "comment_density": 0.0392156862745098,
+    "num_variables": 12,
+    "indentation_consistency": 0.0880281690140846,
+    "repetition_score": 0.19047619047619047,
+    "overexplanation_score": 4.0,
+    "file_name": "178.cpp"
+  },
+  {
+    "avg_var_length": 4.2,
+    "comment_density": 0.0392156862745098,
+    "num_variables": 9,
+    "indentation_consistency": 0.1719298245614035,
+    "repetition_score": 0.15000000000000002,
+    "overexplanation_score": 9.5,
+    "file_name": "179.cpp"
+  },
+  {
+    "avg_var_length": 3.7857142857142856,
+    "comment_density": 0.09090909090909091,
+    "num_variables": 55,
+    "indentation_consistency": 0.05473501303214595,
+    "repetition_score": 0.0714285714285714,
+    "overexplanation_score": 8.666666666666666,
+    "file_name": "18.py"
+  },
+  {
+    "avg_var_length": 5.592592592592593,
+    "comment_density": 0.3103448275862069,
+    "num_variables": 26,
+    "indentation_consistency": 0.0891089108910891,
+    "repetition_score": 0.038461538461538436,
+    "overexplanation_score": 3.2222222222222223,
+    "file_name": "180.py"
+  },
+  {
+    "avg_var_length": 4.444444444444445,
+    "comment_density": 0.0,
+    "num_variables": 8,
+    "indentation_consistency": 0.11386409182000365,
+    "repetition_score": 0.21212121212121215,
+    "overexplanation_score": 0,
+    "file_name": "181.cpp"
+  },
+  {
+    "avg_var_length": 1.8,
+    "comment_density": 0.0,
+    "num_variables": 19,
+    "indentation_consistency": 0.13444709626093876,
+    "repetition_score": 0.25,
+    "overexplanation_score": 0,
+    "file_name": "182.py"
+  },
+  {
+    "avg_var_length": 3.6875,
+    "comment_density": 0.16666666666666666,
+    "num_variables": 63,
+    "indentation_consistency": 0.05357142857142857,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 3.2857142857142856,
+    "file_name": "183.py"
+  },
+  {
+    "avg_var_length": 5.142857142857143,
+    "comment_density": 0.125,
+    "num_variables": 48,
+    "indentation_consistency": 0.04135269251975741,
+    "repetition_score": 0.03125,
+    "overexplanation_score": 6.2,
+    "file_name": "184.py"
+  },
+  {
+    "avg_var_length": 5.75,
+    "comment_density": 0.0,
+    "num_variables": 11,
+    "indentation_consistency": 1.0,
+    "repetition_score": 0.19999999999999996,
+    "overexplanation_score": 0,
+    "file_name": "185.py"
+  },
+  {
+    "avg_var_length": 2.4285714285714284,
+    "comment_density": 0.11764705882352941,
+    "num_variables": 27,
+    "indentation_consistency": 0.09194097616345061,
+    "repetition_score": 0.125,
+    "overexplanation_score": 3.0,
+    "file_name": "186.py"
+  },
+  {
+    "avg_var_length": 7.3076923076923075,
+    "comment_density": 0.16666666666666666,
+    "num_variables": 51,
+    "indentation_consistency": 0.08333333333333333,
+    "repetition_score": 0.030303030303030276,
+    "overexplanation_score": 8.0,
+    "file_name": "187.py"
+  },
+  {
+    "avg_var_length": 5.305555555555555,
+    "comment_density": 0.2222222222222222,
+    "num_variables": 35,
+    "indentation_consistency": 0.06142478425179084,
+    "repetition_score": 0.02631578947368418,
+    "overexplanation_score": 7.1,
+    "file_name": "188.py"
+  },
+  {
+    "avg_var_length": 3.85,
+    "comment_density": 0.2,
+    "num_variables": 19,
+    "indentation_consistency": 0.03862660944206008,
+    "repetition_score": 0.08333333333333337,
+    "overexplanation_score": 10.0,
+    "file_name": "189.py"
+  },
+  {
+    "avg_var_length": 2.466666666666667,
+    "comment_density": 0.015151515151515152,
+    "num_variables": 14,
+    "indentation_consistency": 0.06446457112413426,
+    "repetition_score": 0.23636363636363633,
+    "overexplanation_score": 3.0,
+    "file_name": "19.cpp"
+  },
+  {
+    "avg_var_length": 2.8181818181818183,
+    "comment_density": 0.07692307692307693,
+    "num_variables": 10,
+    "indentation_consistency": 0.08290685772773793,
+    "repetition_score": 0.17500000000000004,
+    "overexplanation_score": 5.0,
+    "file_name": "190.cpp"
+  },
+  {
+    "avg_var_length": 4.446808510638298,
+    "comment_density": 0.0625,
+    "num_variables": 93,
+    "indentation_consistency": 0.06428299733739065,
+    "repetition_score": 0.054545454545454564,
+    "overexplanation_score": 5.0,
+    "file_name": "191.py"
+  },
+  {
+    "avg_var_length": 3.0,
+    "comment_density": 0.0,
+    "num_variables": 6,
+    "indentation_consistency": 0.4204003813155386,
+    "repetition_score": 0.14814814814814814,
+    "overexplanation_score": 0,
+    "file_name": "192.cpp"
+  },
+  {
+    "avg_var_length": 1.9166666666666667,
+    "comment_density": 0.01694915254237288,
+    "num_variables": 11,
+    "indentation_consistency": 0.07363636363636357,
+    "repetition_score": 0.15909090909090906,
+    "overexplanation_score": 7.0,
+    "file_name": "193.cpp"
+  },
+  {
+    "avg_var_length": 2.1666666666666665,
+    "comment_density": 0.1,
+    "num_variables": 5,
+    "indentation_consistency": 0.15299100052938058,
+    "repetition_score": 0.19999999999999996,
+    "overexplanation_score": 8.333333333333334,
+    "file_name": "194.cpp"
+  },
+  {
+    "avg_var_length": 3.5925925925925926,
+    "comment_density": 0.0,
+    "num_variables": 26,
+    "indentation_consistency": 0.07677039767491316,
+    "repetition_score": 0.28358208955223885,
+    "overexplanation_score": 0,
+    "file_name": "195.cpp"
+  },
+  {
+    "avg_var_length": 4.2,
+    "comment_density": 0.02127659574468085,
+    "num_variables": 9,
+    "indentation_consistency": 0.13420252916380737,
+    "repetition_score": 0.1842105263157895,
+    "overexplanation_score": 4.0,
+    "file_name": "196.cpp"
+  },
+  {
+    "avg_var_length": 2.5675675675675675,
+    "comment_density": 0.0,
+    "num_variables": 36,
+    "indentation_consistency": 0.270718232044199,
+    "repetition_score": 0.05555555555555558,
+    "overexplanation_score": 0,
+    "file_name": "197.py"
+  },
+  {
+    "avg_var_length": 4.111111111111111,
+    "comment_density": 0.07407407407407407,
+    "num_variables": 53,
+    "indentation_consistency": 0.10062893081761007,
+    "repetition_score": 0.04761904761904767,
+    "overexplanation_score": 4.0,
+    "file_name": "198.py"
+  },
+  {
+    "avg_var_length": 5.111111111111111,
+    "comment_density": 0.0,
+    "num_variables": 8,
+    "indentation_consistency": 0.11320412968665094,
+    "repetition_score": 0.2068965517241379,
+    "overexplanation_score": 0,
+    "file_name": "199.cpp"
+  },
+  {
+    "avg_var_length": 2.7142857142857144,
+    "comment_density": 0.05263157894736842,
+    "num_variables": 6,
+    "indentation_consistency": 0.2447940768162887,
+    "repetition_score": 0.18181818181818177,
+    "overexplanation_score": 5.5,
+    "file_name": "2.cpp"
+  },
+  {
+    "avg_var_length": 3.4375,
+    "comment_density": 0.01694915254237288,
+    "num_variables": 15,
+    "indentation_consistency": 0.06387346615032893,
+    "repetition_score": 0.34090909090909094,
+    "overexplanation_score": 4.0,
+    "file_name": "20.cpp"
+  },
+  {
+    "avg_var_length": 4.3,
+    "comment_density": 0.13157894736842105,
+    "num_variables": 9,
+    "indentation_consistency": 0.3197519929140833,
+    "repetition_score": 0.1428571428571429,
+    "overexplanation_score": 7.2,
+    "file_name": "200.cpp"
+  },
+  {
+    "avg_var_length": 3.769230769230769,
+    "comment_density": 0.13793103448275862,
+    "num_variables": 38,
+    "indentation_consistency": 0.056306306306306314,
+    "repetition_score": 0.04166666666666663,
+    "overexplanation_score": 5.5,
+    "file_name": "201.py"
+  },
+  {
+    "avg_var_length": 6.6521739130434785,
+    "comment_density": 0.07142857142857142,
+    "num_variables": 22,
+    "indentation_consistency": 0.11316397228637412,
+    "repetition_score": 0.07692307692307687,
+    "overexplanation_score": 3.0,
+    "file_name": "202.py"
+  },
+  {
+    "avg_var_length": 0.0,
+    "comment_density": 0.0,
+    "num_variables": 0,
+    "indentation_consistency": 0.5,
+    "repetition_score": 0.5,
+    "overexplanation_score": 0,
+    "file_name": "203.cpp"
+  },
+  {
+    "avg_var_length": 3.25,
+    "comment_density": 0.0,
+    "num_variables": 15,
+    "indentation_consistency": 0.10705025311766883,
+    "repetition_score": 0.21875,
+    "overexplanation_score": 0,
+    "file_name": "204.cpp"
+  },
+  {
+    "avg_var_length": 4.117647058823529,
+    "comment_density": 0.1111111111111111,
+    "num_variables": 33,
+    "indentation_consistency": 0.2396039603960396,
+    "repetition_score": 0.0714285714285714,
+    "overexplanation_score": 3.0,
+    "file_name": "205.py"
+  },
+  {
+    "avg_var_length": 4.387096774193548,
+    "comment_density": 0.047619047619047616,
+    "num_variables": 30,
+    "indentation_consistency": 0.09219858156028368,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 3.0,
+    "file_name": "206.py"
+  },
+  {
+    "avg_var_length": 5.181818181818182,
+    "comment_density": 0.18181818181818182,
+    "num_variables": 10,
+    "indentation_consistency": 0.2808988764044944,
+    "repetition_score": 0.11111111111111116,
+    "overexplanation_score": 8.0,
+    "file_name": "207.py"
+  },
+  {
+    "avg_var_length": 5.444444444444445,
+    "comment_density": 0.022222222222222223,
+    "num_variables": 8,
+    "indentation_consistency": 0.2114659290922808,
+    "repetition_score": 0.16216216216216217,
+    "overexplanation_score": 4.0,
+    "file_name": "208.cpp"
+  },
+  {
+    "avg_var_length": 5.32,
+    "comment_density": 0.06666666666666667,
+    "num_variables": 24,
+    "indentation_consistency": 0.11316397228637412,
+    "repetition_score": 0.0714285714285714,
+    "overexplanation_score": 3.0,
+    "file_name": "209.py"
+  },
+  {
+    "avg_var_length": 6.0,
+    "comment_density": 0.125,
+    "num_variables": 17,
+    "indentation_consistency": 0.08333333333333333,
+    "repetition_score": 0.07692307692307687,
+    "overexplanation_score": 3.5,
+    "file_name": "21.py"
+  },
+  {
+    "avg_var_length": 3.2083333333333335,
+    "comment_density": 0.0,
+    "num_variables": 23,
+    "indentation_consistency": 0.0967741935483871,
+    "repetition_score": 0.125,
+    "overexplanation_score": 0,
+    "file_name": "210.py"
+  },
+  {
+    "avg_var_length": 3.4444444444444446,
+    "comment_density": 0.0,
+    "num_variables": 26,
+    "indentation_consistency": 0.07614085428779983,
+    "repetition_score": 0.28787878787878785,
+    "overexplanation_score": 0,
+    "file_name": "211.cpp"
+  },
+  {
+    "avg_var_length": 5.4375,
+    "comment_density": 0.0,
+    "num_variables": 15,
+    "indentation_consistency": 0.10210109418003631,
+    "repetition_score": 0.22448979591836737,
+    "overexplanation_score": 0,
+    "file_name": "212.cpp"
+  },
+  {
+    "avg_var_length": 5.315789473684211,
+    "comment_density": 0.3076923076923077,
+    "num_variables": 18,
+    "indentation_consistency": 0.14985471149854712,
+    "repetition_score": 0.050000000000000044,
+    "overexplanation_score": 7.5,
+    "file_name": "213.py"
+  },
+  {
+    "avg_var_length": 3.3333333333333335,
+    "comment_density": 0.1111111111111111,
+    "num_variables": 8,
+    "indentation_consistency": 0.11695812610300012,
+    "repetition_score": 0.19444444444444442,
+    "overexplanation_score": 6.2,
+    "file_name": "214.cpp"
+  },
+  {
+    "avg_var_length": 3.1538461538461537,
+    "comment_density": 0.05405405405405406,
+    "num_variables": 12,
+    "indentation_consistency": 0.02850692123058712,
+    "repetition_score": 0.16666666666666663,
+    "overexplanation_score": 5.5,
+    "file_name": "215.cpp"
+  },
+  {
+    "avg_var_length": 2.912280701754386,
+    "comment_density": 0.08571428571428572,
+    "num_variables": 56,
+    "indentation_consistency": 0.03368546940402631,
+    "repetition_score": 0.06666666666666665,
+    "overexplanation_score": 4.0,
+    "file_name": "216.py"
+  },
+  {
+    "avg_var_length": 8.666666666666666,
+    "comment_density": 0.0,
+    "num_variables": 5,
+    "indentation_consistency": 0.128586609989373,
+    "repetition_score": 0.23076923076923073,
+    "overexplanation_score": 0,
+    "file_name": "217.cpp"
+  },
+  {
+    "avg_var_length": 7.638888888888889,
+    "comment_density": 0.0,
+    "num_variables": 35,
+    "indentation_consistency": 0.05605536332179932,
+    "repetition_score": 0.0625,
+    "overexplanation_score": 0,
+    "file_name": "218.py"
+  },
+  {
+    "avg_var_length": 4.444444444444445,
+    "comment_density": 0.023809523809523808,
+    "num_variables": 8,
+    "indentation_consistency": 0.11864406779661017,
+    "repetition_score": 0.19999999999999996,
+    "overexplanation_score": 6.0,
+    "file_name": "219.cpp"
+  },
+  {
+    "avg_var_length": 3.985074626865672,
+    "comment_density": 0.05,
+    "num_variables": 66,
+    "indentation_consistency": 0.05576553278960281,
+    "repetition_score": 0.06060606060606055,
+    "overexplanation_score": 3.0,
+    "file_name": "22.py"
+  },
+  {
+    "avg_var_length": 4.625,
+    "comment_density": 0.022222222222222223,
+    "num_variables": 7,
+    "indentation_consistency": 0.08263069139966273,
+    "repetition_score": 0.18918918918918914,
+    "overexplanation_score": 10.0,
+    "file_name": "220.cpp"
+  },
+  {
+    "avg_var_length": 6.5,
+    "comment_density": 0.0,
+    "num_variables": 3,
+    "indentation_consistency": 0.5,
+    "repetition_score": 0.5,
+    "overexplanation_score": 0,
+    "file_name": "221.py"
+  },
+  {
+    "avg_var_length": 2.0,
+    "comment_density": 0.1,
+    "num_variables": 8,
+    "indentation_consistency": 0.04998285910181697,
+    "repetition_score": 0.1875,
+    "overexplanation_score": 9.75,
+    "file_name": "222.cpp"
+  },
+  {
+    "avg_var_length": 7.0,
+    "comment_density": 0.0,
+    "num_variables": 4,
+    "indentation_consistency": 0.10101613867304243,
+    "repetition_score": 0.19047619047619047,
+    "overexplanation_score": 0,
+    "file_name": "223.cpp"
+  },
+  {
+    "avg_var_length": 5.578947368421052,
+    "comment_density": 0.09523809523809523,
+    "num_variables": 18,
+    "indentation_consistency": 0.25,
+    "repetition_score": 0.05555555555555558,
+    "overexplanation_score": 3.5,
+    "file_name": "224.py"
+  },
+  {
+    "avg_var_length": 3.4,
+    "comment_density": 0.15625,
+    "num_variables": 4,
+    "indentation_consistency": 0.20111731843575414,
+    "repetition_score": 0.19999999999999996,
+    "overexplanation_score": 3.8,
+    "file_name": "225.cpp"
+  },
+  {
+    "avg_var_length": 4.363636363636363,
+    "comment_density": 0.06779661016949153,
+    "num_variables": 10,
+    "indentation_consistency": 0.07004348938347399,
+    "repetition_score": 0.14583333333333337,
+    "overexplanation_score": 8.75,
+    "file_name": "226.cpp"
+  },
+  {
+    "avg_var_length": 4.333333333333333,
+    "comment_density": 0.05555555555555555,
+    "num_variables": 29,
+    "indentation_consistency": 0.09433962264150944,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 3.0,
+    "file_name": "227.py"
+  },
+  {
+    "avg_var_length": 3.230769230769231,
+    "comment_density": 0.05405405405405406,
+    "num_variables": 12,
+    "indentation_consistency": 0.062420382165605005,
+    "repetition_score": 0.15000000000000002,
+    "overexplanation_score": 7.0,
+    "file_name": "228.cpp"
+  },
+  {
+    "avg_var_length": 5.181818181818182,
+    "comment_density": 0.25,
+    "num_variables": 10,
+    "indentation_consistency": 0.3103448275862069,
+    "repetition_score": 0.09999999999999998,
+    "overexplanation_score": 9.0,
+    "file_name": "229.py"
+  },
+  {
+    "avg_var_length": 3.411764705882353,
+    "comment_density": 0.075,
+    "num_variables": 16,
+    "indentation_consistency": 0.08322717622080689,
+    "repetition_score": 0.18181818181818177,
+    "overexplanation_score": 7.166666666666667,
+    "file_name": "23.cpp"
+  },
+  {
+    "avg_var_length": 2.6,
+    "comment_density": 0.1388888888888889,
+    "num_variables": 9,
+    "indentation_consistency": 0.06935885669332631,
+    "repetition_score": 0.19999999999999996,
+    "overexplanation_score": 9.0,
+    "file_name": "230.cpp"
+  },
+  {
+    "avg_var_length": 6.103448275862069,
+    "comment_density": 0.18518518518518517,
+    "num_variables": 28,
+    "indentation_consistency": 0.20199501246882795,
+    "repetition_score": 0.04166666666666663,
+    "overexplanation_score": 5.6,
+    "file_name": "231.py"
+  },
+  {
+    "avg_var_length": 6.390243902439025,
+    "comment_density": 0.16666666666666666,
+    "num_variables": 40,
+    "indentation_consistency": 0.03721647214269981,
+    "repetition_score": 0.033333333333333326,
+    "overexplanation_score": 6.833333333333333,
+    "file_name": "232.py"
+  },
+  {
+    "avg_var_length": 8.125,
+    "comment_density": 0.0,
+    "num_variables": 7,
+    "indentation_consistency": 0.11428571428571428,
+    "repetition_score": 0.1724137931034483,
+    "overexplanation_score": 0,
+    "file_name": "233.cpp"
+  },
+  {
+    "avg_var_length": 4.545454545454546,
+    "comment_density": 0.02564102564102564,
+    "num_variables": 10,
+    "indentation_consistency": 0.11535836177474403,
+    "repetition_score": 0.2222222222222222,
+    "overexplanation_score": 11.0,
+    "file_name": "234.cpp"
+  },
+  {
+    "avg_var_length": 3.9516129032258065,
+    "comment_density": 0.12903225806451613,
+    "num_variables": 61,
+    "indentation_consistency": 0.06022896963663513,
+    "repetition_score": 0.2692307692307693,
+    "overexplanation_score": 5.0,
+    "file_name": "235.py"
+  },
+  {
+    "avg_var_length": 2.3636363636363638,
+    "comment_density": 0.017241379310344827,
+    "num_variables": 10,
+    "indentation_consistency": 0.07004348938347398,
+    "repetition_score": 0.12765957446808507,
+    "overexplanation_score": 4.0,
+    "file_name": "236.cpp"
+  },
+  {
+    "avg_var_length": 3.926470588235294,
+    "comment_density": 0.05714285714285714,
+    "num_variables": 67,
+    "indentation_consistency": 0.05173412796953895,
+    "repetition_score": 0.06666666666666665,
+    "overexplanation_score": 3.0,
+    "file_name": "237.py"
+  },
+  {
+    "avg_var_length": 3.6666666666666665,
+    "comment_density": 0.08695652173913043,
+    "num_variables": 11,
+    "indentation_consistency": 0.031136796109662423,
+    "repetition_score": 0.22580645161290325,
+    "overexplanation_score": 6.666666666666667,
+    "file_name": "238.cpp"
+  },
+  {
+    "avg_var_length": 3.25,
+    "comment_density": 0.0,
+    "num_variables": 3,
+    "indentation_consistency": 0.5,
+    "repetition_score": 0.5,
+    "overexplanation_score": 0,
+    "file_name": "239.py"
+  },
+  {
+    "avg_var_length": 3.557142857142857,
+    "comment_density": 0.023255813953488372,
+    "num_variables": 69,
+    "indentation_consistency": 0.05950935146951665,
+    "repetition_score": 0.16216216216216217,
+    "overexplanation_score": 3.0,
+    "file_name": "24.py"
+  },
+  {
+    "avg_var_length": 3.0,
+    "comment_density": 0.136986301369863,
+    "num_variables": 14,
+    "indentation_consistency": 0.07857142857142857,
+    "repetition_score": 0.360655737704918,
+    "overexplanation_score": 6.9,
+    "file_name": "240.cpp"
+  },
+  {
+    "avg_var_length": 3.5,
+    "comment_density": 0.0,
+    "num_variables": 9,
+    "indentation_consistency": 1.0,
+    "repetition_score": 0.1428571428571429,
+    "overexplanation_score": 0,
+    "file_name": "241.py"
+  },
+  {
+    "avg_var_length": 5.636363636363637,
+    "comment_density": 0.125,
+    "num_variables": 10,
+    "indentation_consistency": 1.0,
+    "repetition_score": 0.1428571428571429,
+    "overexplanation_score": 3.0,
+    "file_name": "242.py"
+  },
+  {
+    "avg_var_length": 7.0,
+    "comment_density": 0.09523809523809523,
+    "num_variables": 18,
+    "indentation_consistency": 0.09272030651340997,
+    "repetition_score": 0.0625,
+    "overexplanation_score": 5.5,
+    "file_name": "243.py"
+  },
+  {
+    "avg_var_length": 6.121212121212121,
+    "comment_density": 0.16666666666666666,
+    "num_variables": 32,
+    "indentation_consistency": 0.06760383386581469,
+    "repetition_score": 0.2068965517241379,
+    "overexplanation_score": 5.0,
+    "file_name": "244.py"
+  },
+  {
+    "avg_var_length": 2.1818181818181817,
+    "comment_density": 0.058823529411764705,
+    "num_variables": 10,
+    "indentation_consistency": 0.053171231873443664,
+    "repetition_score": 0.19047619047619047,
+    "overexplanation_score": 4.333333333333333,
+    "file_name": "245.cpp"
+  },
+  {
+    "avg_var_length": 5.888888888888889,
+    "comment_density": 0.025,
+    "num_variables": 35,
+    "indentation_consistency": 0.039137380191693306,
+    "repetition_score": 0.033333333333333326,
+    "overexplanation_score": 3.0,
+    "file_name": "246.py"
+  },
+  {
+    "avg_var_length": 5.705882352941177,
+    "comment_density": 0.08823529411764706,
+    "num_variables": 67,
+    "indentation_consistency": 0.05573770491803279,
+    "repetition_score": 0.038461538461538436,
+    "overexplanation_score": 4.333333333333333,
+    "file_name": "247.py"
+  },
+  {
+    "avg_var_length": 5.123076923076923,
+    "comment_density": 0.12121212121212122,
+    "num_variables": 64,
+    "indentation_consistency": 0.07922423627836227,
+    "repetition_score": 0.03703703703703709,
+    "overexplanation_score": 5.5,
+    "file_name": "248.py"
+  },
+  {
+    "avg_var_length": 5.2,
+    "comment_density": 0.0,
+    "num_variables": 24,
+    "indentation_consistency": 0.23444976076555024,
+    "repetition_score": 0.0714285714285714,
+    "overexplanation_score": 0,
+    "file_name": "249.py"
+  },
+  {
+    "avg_var_length": 2.5714285714285716,
+    "comment_density": 0.024390243902439025,
+    "num_variables": 6,
+    "indentation_consistency": 0.10537634408602148,
+    "repetition_score": 0.18181818181818177,
+    "overexplanation_score": 9.0,
+    "file_name": "25.cpp"
+  },
+  {
+    "avg_var_length": 2.5918367346938775,
+    "comment_density": 0.0,
+    "num_variables": 48,
+    "indentation_consistency": 0.04025764895330112,
+    "repetition_score": 0.06666666666666665,
+    "overexplanation_score": 0,
+    "file_name": "250.py"
+  },
+  {
+    "avg_var_length": 6.208333333333333,
+    "comment_density": 0.1111111111111111,
+    "num_variables": 23,
+    "indentation_consistency": 0.09433962264150944,
+    "repetition_score": 0.0625,
+    "overexplanation_score": 3.0,
+    "file_name": "251.py"
+  },
+  {
+    "avg_var_length": 6.7,
+    "comment_density": 0.23809523809523808,
+    "num_variables": 19,
+    "indentation_consistency": 0.08492201039861352,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 4.4,
+    "file_name": "252.py"
+  },
+  {
+    "avg_var_length": 4.17948717948718,
+    "comment_density": 0.07692307692307693,
+    "num_variables": 38,
+    "indentation_consistency": 0.2040700960994912,
+    "repetition_score": 0.052631578947368474,
+    "overexplanation_score": 3.0,
+    "file_name": "253.py"
+  },
+  {
+    "avg_var_length": 5.930232558139535,
+    "comment_density": 0.13793103448275862,
+    "num_variables": 42,
+    "indentation_consistency": 0.08933432318732987,
+    "repetition_score": 0.04166666666666663,
+    "overexplanation_score": 5.5,
+    "file_name": "254.py"
+  },
+  {
+    "avg_var_length": 6.434782608695652,
+    "comment_density": 0.125,
+    "num_variables": 22,
+    "indentation_consistency": 0.05951506245407789,
+    "repetition_score": 0.0714285714285714,
+    "overexplanation_score": 3.0,
+    "file_name": "255.py"
+  },
+  {
+    "avg_var_length": 6.695652173913044,
+    "comment_density": 0.10526315789473684,
+    "num_variables": 22,
+    "indentation_consistency": 0.08290685772773797,
+    "repetition_score": 0.06666666666666665,
+    "overexplanation_score": 8.0,
+    "file_name": "256.py"
+  },
+  {
+    "avg_var_length": 9.409090909090908,
+    "comment_density": 0.08333333333333333,
+    "num_variables": 43,
+    "indentation_consistency": 0.05916870415647921,
+    "repetition_score": 0.0357142857142857,
+    "overexplanation_score": 7.666666666666667,
+    "file_name": "257.py"
+  },
+  {
+    "avg_var_length": 3.5,
+    "comment_density": 0.04,
+    "num_variables": 7,
+    "indentation_consistency": 0.045811873136351315,
+    "repetition_score": 0.19047619047619047,
+    "overexplanation_score": 3.0,
+    "file_name": "258.cpp"
+  },
+  {
+    "avg_var_length": 5.285714285714286,
+    "comment_density": 0.18181818181818182,
+    "num_variables": 48,
+    "indentation_consistency": 0.039124325123881365,
+    "repetition_score": 0.03703703703703709,
+    "overexplanation_score": 5.166666666666667,
+    "file_name": "259.py"
+  },
+  {
+    "avg_var_length": 4.25,
+    "comment_density": 0.044444444444444446,
+    "num_variables": 7,
+    "indentation_consistency": 0.055220017256255395,
+    "repetition_score": 0.33333333333333337,
+    "overexplanation_score": 8.0,
+    "file_name": "26.cpp"
+  },
+  {
+    "avg_var_length": 5.285714285714286,
+    "comment_density": 0.11904761904761904,
+    "num_variables": 6,
+    "indentation_consistency": 0.0967741935483871,
+    "repetition_score": 0.1470588235294118,
+    "overexplanation_score": 9.6,
+    "file_name": "260.cpp"
+  },
+  {
+    "avg_var_length": 5.846153846153846,
+    "comment_density": 0.11764705882352941,
+    "num_variables": 25,
+    "indentation_consistency": 0.09433962264150944,
+    "repetition_score": 0.0625,
+    "overexplanation_score": 3.5,
+    "file_name": "261.py"
+  },
+  {
+    "avg_var_length": 6.8604651162790695,
+    "comment_density": 0.030303030303030304,
+    "num_variables": 42,
+    "indentation_consistency": 0.0806953339432754,
+    "repetition_score": 0.06896551724137934,
+    "overexplanation_score": 3.0,
+    "file_name": "262.py"
+  },
+  {
+    "avg_var_length": 3.971014492753623,
+    "comment_density": 0.14285714285714285,
+    "num_variables": 68,
+    "indentation_consistency": 0.06457159798399048,
+    "repetition_score": 0.05555555555555558,
+    "overexplanation_score": 5.5,
+    "file_name": "263.py"
+  },
+  {
+    "avg_var_length": 2.0,
+    "comment_density": 0.32558139534883723,
+    "num_variables": 8,
+    "indentation_consistency": 0.04441524310118265,
+    "repetition_score": 0.13888888888888884,
+    "overexplanation_score": 8.214285714285714,
+    "file_name": "264.cpp"
+  },
+  {
+    "avg_var_length": 3.2222222222222223,
+    "comment_density": 0.05405405405405406,
+    "num_variables": 8,
+    "indentation_consistency": 0.26247288503253785,
+    "repetition_score": 0.16666666666666663,
+    "overexplanation_score": 7.5,
+    "file_name": "265.cpp"
+  },
+  {
+    "avg_var_length": 2.6666666666666665,
+    "comment_density": 0.043478260869565216,
+    "num_variables": 5,
+    "indentation_consistency": 0.25,
+    "repetition_score": 0.1578947368421053,
+    "overexplanation_score": 9.0,
+    "file_name": "266.cpp"
+  },
+  {
+    "avg_var_length": 3.0,
+    "comment_density": 0.0,
+    "num_variables": 5,
+    "indentation_consistency": 0.5161290322580645,
+    "repetition_score": 0.13636363636363635,
+    "overexplanation_score": 0,
+    "file_name": "267.cpp"
+  },
+  {
+    "avg_var_length": 1.25,
+    "comment_density": 0.22058823529411764,
+    "num_variables": 7,
+    "indentation_consistency": 0.155174005354011,
+    "repetition_score": 0.1964285714285714,
+    "overexplanation_score": 7.0,
+    "file_name": "268.cpp"
+  },
+  {
+    "avg_var_length": 5.2727272727272725,
+    "comment_density": 0.06521739130434782,
+    "num_variables": 10,
+    "indentation_consistency": 0.12903225806451613,
+    "repetition_score": 0.2222222222222222,
+    "overexplanation_score": 3.3333333333333335,
+    "file_name": "269.cpp"
+  },
+  {
+    "avg_var_length": 3.5,
+    "comment_density": 0.06666666666666667,
+    "num_variables": 7,
+    "indentation_consistency": 0.1526479750778816,
+    "repetition_score": 0.17391304347826086,
+    "overexplanation_score": 6.0,
+    "file_name": "27.cpp"
+  },
+  {
+    "avg_var_length": 4.582278481012659,
+    "comment_density": 0.02127659574468085,
+    "num_variables": 78,
+    "indentation_consistency": 0.043153969099627064,
+    "repetition_score": 0.024390243902439046,
+    "overexplanation_score": 3.0,
+    "file_name": "270.py"
+  },
+  {
+    "avg_var_length": 3.3333333333333335,
+    "comment_density": 0.07228915662650602,
+    "num_variables": 26,
+    "indentation_consistency": 0.07591093117408913,
+    "repetition_score": 0.2676056338028169,
+    "overexplanation_score": 8.0,
+    "file_name": "271.cpp"
+  },
+  {
+    "avg_var_length": 2.1,
+    "comment_density": 0.07142857142857142,
+    "num_variables": 9,
+    "indentation_consistency": 0.042666666666666665,
+    "repetition_score": 0.20833333333333337,
+    "overexplanation_score": 5.0,
+    "file_name": "272.cpp"
+  },
+  {
+    "avg_var_length": 4.590909090909091,
+    "comment_density": 0.2727272727272727,
+    "num_variables": 21,
+    "indentation_consistency": 0.08785630613041781,
+    "repetition_score": 0.052631578947368474,
+    "overexplanation_score": 6.166666666666667,
+    "file_name": "273.py"
+  },
+  {
+    "avg_var_length": 2.9,
+    "comment_density": 0.0,
+    "num_variables": 9,
+    "indentation_consistency": 0.07439186200796115,
+    "repetition_score": 0.1707317073170732,
+    "overexplanation_score": 0,
+    "file_name": "274.cpp"
+  },
+  {
+    "avg_var_length": 2.5555555555555554,
+    "comment_density": 0.05128205128205128,
+    "num_variables": 8,
+    "indentation_consistency": 0.12696747114375656,
+    "repetition_score": 0.1875,
+    "overexplanation_score": 6.0,
+    "file_name": "275.cpp"
+  },
+  {
+    "avg_var_length": 2.2857142857142856,
+    "comment_density": 0.125,
+    "num_variables": 6,
+    "indentation_consistency": 0.46814404432132956,
+    "repetition_score": 0.09999999999999998,
+    "overexplanation_score": 9.0,
+    "file_name": "276.cpp"
+  },
+  {
+    "avg_var_length": 1.1666666666666667,
+    "comment_density": 0.09230769230769231,
+    "num_variables": 11,
+    "indentation_consistency": 0.09657112880919452,
+    "repetition_score": 0.2407407407407407,
+    "overexplanation_score": 6.833333333333333,
+    "file_name": "277.cpp"
+  },
+  {
+    "avg_var_length": 7.36734693877551,
+    "comment_density": 0.17142857142857143,
+    "num_variables": 48,
+    "indentation_consistency": 0.08414424728105324,
+    "repetition_score": 0.0357142857142857,
+    "overexplanation_score": 6.166666666666667,
+    "file_name": "278.py"
+  },
+  {
+    "avg_var_length": 2.3333333333333335,
+    "comment_density": 0.15625,
+    "num_variables": 5,
+    "indentation_consistency": 0.30072840790842875,
+    "repetition_score": 0.12,
+    "overexplanation_score": 8.6,
+    "file_name": "279.cpp"
+  },
+  {
+    "avg_var_length": 4.714285714285714,
+    "comment_density": 0.2,
+    "num_variables": 6,
+    "indentation_consistency": 1.0,
+    "repetition_score": 0.11111111111111116,
+    "overexplanation_score": 3.5,
+    "file_name": "28.py"
+  },
+  {
+    "avg_var_length": 9.242424242424242,
+    "comment_density": 0.13043478260869565,
+    "num_variables": 32,
+    "indentation_consistency": 0.1672354948805461,
+    "repetition_score": 0.050000000000000044,
+    "overexplanation_score": 5.333333333333333,
+    "file_name": "280.py"
+  },
+  {
+    "avg_var_length": 5.2075471698113205,
+    "comment_density": 0.04,
+    "num_variables": 52,
+    "indentation_consistency": 0.019592476489028215,
+    "repetition_score": 0.050000000000000044,
+    "overexplanation_score": 3.0,
+    "file_name": "281.py"
+  },
+  {
+    "avg_var_length": 5.454545454545454,
+    "comment_density": 0.2,
+    "num_variables": 10,
+    "indentation_consistency": 0.25,
+    "repetition_score": 0.11111111111111116,
+    "overexplanation_score": 3.0,
+    "file_name": "282.py"
+  },
+  {
+    "avg_var_length": 5.0,
+    "comment_density": 0.15789473684210525,
+    "num_variables": 77,
+    "indentation_consistency": 0.07651945780498472,
+    "repetition_score": 0.021739130434782594,
+    "overexplanation_score": 7.444444444444445,
+    "file_name": "283.py"
+  },
+  {
+    "avg_var_length": 1.8571428571428572,
+    "comment_density": 0.06666666666666667,
+    "num_variables": 6,
+    "indentation_consistency": 0.12643678160919541,
+    "repetition_score": 0.16000000000000003,
+    "overexplanation_score": 7.5,
+    "file_name": "284.cpp"
+  },
+  {
+    "avg_var_length": 2.1818181818181817,
+    "comment_density": 0.08955223880597014,
+    "num_variables": 10,
+    "indentation_consistency": 0.06275389903695926,
+    "repetition_score": 0.22807017543859653,
+    "overexplanation_score": 5.833333333333333,
+    "file_name": "285.cpp"
+  },
+  {
+    "avg_var_length": 6.6,
+    "comment_density": 0.0,
+    "num_variables": 4,
+    "indentation_consistency": 0.5,
+    "repetition_score": 0.33333333333333337,
+    "overexplanation_score": 0,
+    "file_name": "286.py"
+  },
+  {
+    "avg_var_length": 3.111111111111111,
+    "comment_density": 0.0,
+    "num_variables": 26,
+    "indentation_consistency": 0.07634307257304435,
+    "repetition_score": 0.3015873015873016,
+    "overexplanation_score": 0,
+    "file_name": "287.cpp"
+  },
+  {
+    "avg_var_length": 2.0833333333333335,
+    "comment_density": 0.05,
+    "num_variables": 11,
+    "indentation_consistency": 0.05938242280285032,
+    "repetition_score": 0.21153846153846156,
+    "overexplanation_score": 4.0,
+    "file_name": "288.cpp"
+  },
+  {
+    "avg_var_length": 2.5,
+    "comment_density": 0.0,
+    "num_variables": 15,
+    "indentation_consistency": 0.06569343065693431,
+    "repetition_score": 0.2222222222222222,
+    "overexplanation_score": 0,
+    "file_name": "289.cpp"
+  },
+  {
+    "avg_var_length": 7.96875,
+    "comment_density": 0.125,
+    "num_variables": 31,
+    "indentation_consistency": 0.08672566371681414,
+    "repetition_score": 0.10526315789473684,
+    "overexplanation_score": 5.333333333333333,
+    "file_name": "29.py"
+  },
+  {
+    "avg_var_length": 5.142857142857143,
+    "comment_density": 0.0,
+    "num_variables": 6,
+    "indentation_consistency": 0.27327781983345945,
+    "repetition_score": 0.1923076923076923,
+    "overexplanation_score": 0,
+    "file_name": "290.cpp"
+  },
+  {
+    "avg_var_length": 5.925925925925926,
+    "comment_density": 0.043478260869565216,
+    "num_variables": 26,
+    "indentation_consistency": 0.04654533741343212,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 7.0,
+    "file_name": "291.py"
+  },
+  {
+    "avg_var_length": 4.188405797101449,
+    "comment_density": 0.1590909090909091,
+    "num_variables": 68,
+    "indentation_consistency": 0.055694778294890813,
+    "repetition_score": 0.05714285714285716,
+    "overexplanation_score": 6.0,
+    "file_name": "292.py"
+  },
+  {
+    "avg_var_length": 2.1,
+    "comment_density": 0.0625,
+    "num_variables": 9,
+    "indentation_consistency": 0.30806257521058966,
+    "repetition_score": 0.14814814814814814,
+    "overexplanation_score": 6.5,
+    "file_name": "293.cpp"
+  },
+  {
+    "avg_var_length": 5.0,
+    "comment_density": 0.21052631578947367,
+    "num_variables": 6,
+    "indentation_consistency": 0.5902439024390241,
+    "repetition_score": 0.11764705882352944,
+    "overexplanation_score": 4.5,
+    "file_name": "294.cpp"
+  },
+  {
+    "avg_var_length": 5.979591836734694,
+    "comment_density": 0.14285714285714285,
+    "num_variables": 48,
+    "indentation_consistency": 0.0904226859283039,
+    "repetition_score": 0.0357142857142857,
+    "overexplanation_score": 6.8,
+    "file_name": "295.py"
+  },
+  {
+    "avg_var_length": 6.166666666666667,
+    "comment_density": 0.0,
+    "num_variables": 5,
+    "indentation_consistency": 0.15187210769877996,
+    "repetition_score": 0.18181818181818177,
+    "overexplanation_score": 0,
+    "file_name": "296.cpp"
+  },
+  {
+    "avg_var_length": 6.771428571428571,
+    "comment_density": 0.030303030303030304,
+    "num_variables": 34,
+    "indentation_consistency": 0.0502283105022831,
+    "repetition_score": 0.0357142857142857,
+    "overexplanation_score": 3.0,
+    "file_name": "297.py"
+  },
+  {
+    "avg_var_length": 4.0,
+    "comment_density": 0.08571428571428572,
+    "num_variables": 9,
+    "indentation_consistency": 0.32894736842105265,
+    "repetition_score": 0.13793103448275867,
+    "overexplanation_score": 9.0,
+    "file_name": "298.cpp"
+  },
+  {
+    "avg_var_length": 3.1666666666666665,
+    "comment_density": 0.045454545454545456,
+    "num_variables": 5,
+    "indentation_consistency": 0.08479678876066234,
+    "repetition_score": 0.19999999999999996,
+    "overexplanation_score": 2.0,
+    "file_name": "299.cpp"
+  },
+  {
+    "avg_var_length": 3.227272727272727,
+    "comment_density": 0.11940298507462686,
+    "num_variables": 21,
+    "indentation_consistency": 0.1567721293992179,
+    "repetition_score": 0.27586206896551724,
+    "overexplanation_score": 6.25,
+    "file_name": "3.cpp"
+  },
+  {
+    "avg_var_length": 4.0,
+    "comment_density": 0.09375,
+    "num_variables": 9,
+    "indentation_consistency": 0.34670487106017206,
+    "repetition_score": 0.15384615384615385,
+    "overexplanation_score": 9.333333333333334,
+    "file_name": "30.cpp"
+  },
+  {
+    "avg_var_length": 1.2222222222222223,
+    "comment_density": 0.07462686567164178,
+    "num_variables": 8,
+    "indentation_consistency": 0.11036520850815437,
+    "repetition_score": 0.2142857142857143,
+    "overexplanation_score": 7.6,
+    "file_name": "300.cpp"
+  },
+  {
+    "avg_var_length": 2.2,
+    "comment_density": 0.1509433962264151,
+    "num_variables": 4,
+    "indentation_consistency": 1.0,
+    "repetition_score": 0.0714285714285714,
+    "overexplanation_score": 7.5,
+    "file_name": "301.cpp"
+  },
+  {
+    "avg_var_length": 3.3333333333333335,
+    "comment_density": 0.09375,
+    "num_variables": 8,
+    "indentation_consistency": 0.3197519929140833,
+    "repetition_score": 0.15384615384615385,
+    "overexplanation_score": 8.0,
+    "file_name": "302.cpp"
+  },
+  {
+    "avg_var_length": 2.9375,
+    "comment_density": 0.0,
+    "num_variables": 15,
+    "indentation_consistency": 0.06260197509660795,
+    "repetition_score": 0.2321428571428571,
+    "overexplanation_score": 0,
+    "file_name": "303.cpp"
+  },
+  {
+    "avg_var_length": 4.96875,
+    "comment_density": 0.18518518518518517,
+    "num_variables": 31,
+    "indentation_consistency": 0.13275149288011023,
+    "repetition_score": 0.04761904761904767,
+    "overexplanation_score": 6.8,
+    "file_name": "304.py"
+  },
+  {
+    "avg_var_length": 3.632911392405063,
+    "comment_density": 0.02564102564102564,
+    "num_variables": 78,
+    "indentation_consistency": 0.05144694533762058,
+    "repetition_score": 0.13888888888888884,
+    "overexplanation_score": 3.0,
+    "file_name": "305.py"
+  },
+  {
+    "avg_var_length": 7.023809523809524,
+    "comment_density": 0.2,
+    "num_variables": 41,
+    "indentation_consistency": 0.06112469437652811,
+    "repetition_score": 0.03125,
+    "overexplanation_score": 6.25,
+    "file_name": "306.py"
+  },
+  {
+    "avg_var_length": 4.134328358208955,
+    "comment_density": 0.1956521739130435,
+    "num_variables": 66,
+    "indentation_consistency": 0.08207895484237433,
+    "repetition_score": 0.023809523809523836,
+    "overexplanation_score": 6.0,
+    "file_name": "307.py"
+  },
+  {
+    "avg_var_length": 1.8461538461538463,
+    "comment_density": 0.016129032258064516,
+    "num_variables": 12,
+    "indentation_consistency": 0.07258064516129031,
+    "repetition_score": 0.14893617021276595,
+    "overexplanation_score": 7.0,
+    "file_name": "308.cpp"
+  },
+  {
+    "avg_var_length": 4.015625,
+    "comment_density": 0.15,
+    "num_variables": 63,
+    "indentation_consistency": 0.058949338323753514,
+    "repetition_score": 0.06060606060606055,
+    "overexplanation_score": 2.5,
+    "file_name": "309.py"
+  },
+  {
+    "avg_var_length": 3.111111111111111,
+    "comment_density": 0.0,
+    "num_variables": 8,
+    "indentation_consistency": 0.10112359550561797,
+    "repetition_score": 0.125,
+    "overexplanation_score": 0,
+    "file_name": "31.py"
+  },
+  {
+    "avg_var_length": 2.7714285714285714,
+    "comment_density": 0.23076923076923078,
+    "num_variables": 34,
+    "indentation_consistency": 0.06999273431823685,
+    "repetition_score": 0.045454545454545414,
+    "overexplanation_score": 7.333333333333333,
+    "file_name": "310.py"
+  },
+  {
+    "avg_var_length": 3.1904761904761907,
+    "comment_density": 0.06153846153846154,
+    "num_variables": 20,
+    "indentation_consistency": 0.08287473437585137,
+    "repetition_score": 0.24561403508771928,
+    "overexplanation_score": 5.75,
+    "file_name": "311.cpp"
+  },
+  {
+    "avg_var_length": 6.617647058823529,
+    "comment_density": 0.11428571428571428,
+    "num_variables": 67,
+    "indentation_consistency": 0.05185185185185186,
+    "repetition_score": 0.03703703703703709,
+    "overexplanation_score": 3.25,
+    "file_name": "312.py"
+  },
+  {
+    "avg_var_length": 6.5,
+    "comment_density": 0.0,
+    "num_variables": 5,
+    "indentation_consistency": 0.14340344168260033,
+    "repetition_score": 0.18181818181818177,
+    "overexplanation_score": 0,
+    "file_name": "313.cpp"
+  },
+  {
+    "avg_var_length": 7.375,
+    "comment_density": 0.10256410256410256,
+    "num_variables": 7,
+    "indentation_consistency": 0.15789473684210528,
+    "repetition_score": 0.1333333333333333,
+    "overexplanation_score": 10.25,
+    "file_name": "314.cpp"
+  },
+  {
+    "avg_var_length": 6.928571428571429,
+    "comment_density": 0.2631578947368421,
+    "num_variables": 27,
+    "indentation_consistency": 0.0830564784053156,
+    "repetition_score": 0.0625,
+    "overexplanation_score": 5.6,
+    "file_name": "315.py"
+  },
+  {
+    "avg_var_length": 6.0,
+    "comment_density": 0.25,
+    "num_variables": 25,
+    "indentation_consistency": 0.1596877217885025,
+    "repetition_score": 0.040000000000000036,
+    "overexplanation_score": 4.0,
+    "file_name": "316.py"
+  },
+  {
+    "avg_var_length": 3.9,
+    "comment_density": 0.10638297872340426,
+    "num_variables": 9,
+    "indentation_consistency": 0.14950166112956814,
+    "repetition_score": 0.17500000000000004,
+    "overexplanation_score": 8.6,
+    "file_name": "317.cpp"
+  },
+  {
+    "avg_var_length": 2.2,
+    "comment_density": 0.0,
+    "num_variables": 4,
+    "indentation_consistency": 0.3103448275862069,
+    "repetition_score": 0.10526315789473684,
+    "overexplanation_score": 0,
+    "file_name": "318.cpp"
+  },
+  {
+    "avg_var_length": 1.2,
+    "comment_density": 0.12857142857142856,
+    "num_variables": 9,
+    "indentation_consistency": 0.10981938966161521,
+    "repetition_score": 0.14035087719298245,
+    "overexplanation_score": 6.444444444444445,
+    "file_name": "319.cpp"
+  },
+  {
+    "avg_var_length": 2.875,
+    "comment_density": 0.043478260869565216,
+    "num_variables": 7,
+    "indentation_consistency": 0.25,
+    "repetition_score": 0.1578947368421053,
+    "overexplanation_score": 8.0,
+    "file_name": "32.cpp"
+  },
+  {
+    "avg_var_length": 2.9285714285714284,
+    "comment_density": 0.05263157894736842,
+    "num_variables": 13,
+    "indentation_consistency": 0.0798020302734728,
+    "repetition_score": 0.17460317460317465,
+    "overexplanation_score": 6.75,
+    "file_name": "320.cpp"
+  },
+  {
+    "avg_var_length": 5.7,
+    "comment_density": 0.046511627906976744,
+    "num_variables": 9,
+    "indentation_consistency": 0.12207867615038463,
+    "repetition_score": 0.23529411764705888,
+    "overexplanation_score": 4.5,
+    "file_name": "321.cpp"
+  },
+  {
+    "avg_var_length": 5.0,
+    "comment_density": 0.0,
+    "num_variables": 7,
+    "indentation_consistency": 0.11980440097799507,
+    "repetition_score": 0.23333333333333328,
+    "overexplanation_score": 0,
+    "file_name": "322.cpp"
+  },
+  {
+    "avg_var_length": 5.857142857142857,
+    "comment_density": 0.03125,
+    "num_variables": 6,
+    "indentation_consistency": 0.14559193954659952,
+    "repetition_score": 0.18518518518518523,
+    "overexplanation_score": 6.0,
+    "file_name": "323.cpp"
+  },
+  {
+    "avg_var_length": 4.333333333333333,
+    "comment_density": 0.0,
+    "num_variables": 5,
+    "indentation_consistency": 0.07225691347011595,
+    "repetition_score": 0.20833333333333337,
+    "overexplanation_score": 0,
+    "file_name": "324.cpp"
+  },
+  {
+    "avg_var_length": 6.32258064516129,
+    "comment_density": 0.25,
+    "num_variables": 30,
+    "indentation_consistency": 0.08908803373748023,
+    "repetition_score": 0.052631578947368474,
+    "overexplanation_score": 5.5,
+    "file_name": "325.py"
+  },
+  {
+    "avg_var_length": 7.938775510204081,
+    "comment_density": 0.21052631578947367,
+    "num_variables": 48,
+    "indentation_consistency": 0.08222602289172479,
+    "repetition_score": 0.032258064516129004,
+    "overexplanation_score": 7.625,
+    "file_name": "326.py"
+  },
+  {
+    "avg_var_length": 2.7142857142857144,
+    "comment_density": 0.15584415584415584,
+    "num_variables": 13,
+    "indentation_consistency": 0.08731970400100329,
+    "repetition_score": 0.11475409836065575,
+    "overexplanation_score": 6.666666666666667,
+    "file_name": "327.cpp"
+  },
+  {
+    "avg_var_length": 4.03030303030303,
+    "comment_density": 0.11764705882352941,
+    "num_variables": 32,
+    "indentation_consistency": 0.2033195020746888,
+    "repetition_score": 0.07692307692307687,
+    "overexplanation_score": 3.0,
+    "file_name": "328.py"
+  },
+  {
+    "avg_var_length": 6.909090909090909,
+    "comment_density": 0.11764705882352941,
+    "num_variables": 21,
+    "indentation_consistency": 0.2126537785588752,
+    "repetition_score": 0.07692307692307687,
+    "overexplanation_score": 3.0,
+    "file_name": "329.py"
+  },
+  {
+    "avg_var_length": 5.181818181818182,
+    "comment_density": 0.11764705882352941,
+    "num_variables": 21,
+    "indentation_consistency": 0.061203844208396564,
+    "repetition_score": 0.07692307692307687,
+    "overexplanation_score": 3.0,
+    "file_name": "33.py"
+  },
+  {
+    "avg_var_length": 4.910714285714286,
+    "comment_density": 0.16326530612244897,
+    "num_variables": 55,
+    "indentation_consistency": 0.0659072416598861,
+    "repetition_score": 0.025000000000000022,
+    "overexplanation_score": 6.0,
+    "file_name": "330.py"
+  },
+  {
+    "avg_var_length": 3.1052631578947367,
+    "comment_density": 0.08333333333333333,
+    "num_variables": 18,
+    "indentation_consistency": 0.3379310344827586,
+    "repetition_score": 0.09090909090909094,
+    "overexplanation_score": 3.0,
+    "file_name": "331.py"
+  },
+  {
+    "avg_var_length": 7.523809523809524,
+    "comment_density": 0.2,
+    "num_variables": 41,
+    "indentation_consistency": 0.05978076618826987,
+    "repetition_score": 0.03125,
+    "overexplanation_score": 8.875,
+    "file_name": "332.py"
+  },
+  {
+    "avg_var_length": 3.933333333333333,
+    "comment_density": 0.0,
+    "num_variables": 14,
+    "indentation_consistency": 0.05519040166927492,
+    "repetition_score": 0.23076923076923073,
+    "overexplanation_score": 0,
+    "file_name": "333.cpp"
+  },
+  {
+    "avg_var_length": 3.0625,
+    "comment_density": 0.05,
+    "num_variables": 15,
+    "indentation_consistency": 0.10329864303313356,
+    "repetition_score": 0.171875,
+    "overexplanation_score": 8.0,
+    "file_name": "334.cpp"
+  },
+  {
+    "avg_var_length": 4.884615384615385,
+    "comment_density": 0.2608695652173913,
+    "num_variables": 25,
+    "indentation_consistency": 0.07692307692307693,
+    "repetition_score": 0.04761904761904767,
+    "overexplanation_score": 6.0,
+    "file_name": "335.py"
+  },
+  {
+    "avg_var_length": 3.3333333333333335,
+    "comment_density": 0.0625,
+    "num_variables": 80,
+    "indentation_consistency": 0.05284099179969916,
+    "repetition_score": 0.04761904761904767,
+    "overexplanation_score": 4.0,
+    "file_name": "336.py"
+  },
+  {
+    "avg_var_length": 6.741935483870968,
+    "comment_density": 0.13043478260869565,
+    "num_variables": 61,
+    "indentation_consistency": 0.05105792010456663,
+    "repetition_score": 0.05405405405405406,
+    "overexplanation_score": 8.166666666666666,
+    "file_name": "337.py"
+  },
+  {
+    "avg_var_length": 4.343283582089552,
+    "comment_density": 0.21153846153846154,
+    "num_variables": 66,
+    "indentation_consistency": 0.078884667396484,
+    "repetition_score": 0.022222222222222254,
+    "overexplanation_score": 5.545454545454546,
+    "file_name": "338.py"
+  },
+  {
+    "avg_var_length": 2.75,
+    "comment_density": 0.0,
+    "num_variables": 3,
+    "indentation_consistency": 1.0,
+    "repetition_score": 0.09090909090909094,
+    "overexplanation_score": 0,
+    "file_name": "339.cpp"
+  },
+  {
+    "avg_var_length": 4.25,
+    "comment_density": 0.043478260869565216,
+    "num_variables": 3,
+    "indentation_consistency": 0.062259800153727916,
+    "repetition_score": 0.21052631578947367,
+    "overexplanation_score": 7.0,
+    "file_name": "34.cpp"
+  },
+  {
+    "avg_var_length": 4.583333333333333,
+    "comment_density": 0.0,
+    "num_variables": 23,
+    "indentation_consistency": 0.21951219512195122,
+    "repetition_score": 0.125,
+    "overexplanation_score": 0,
+    "file_name": "340.py"
+  },
+  {
+    "avg_var_length": 3.7,
+    "comment_density": 0.0,
+    "num_variables": 9,
+    "indentation_consistency": 0.21951219512195122,
+    "repetition_score": 0.1428571428571429,
+    "overexplanation_score": 0,
+    "file_name": "341.py"
+  },
+  {
+    "avg_var_length": 6.125,
+    "comment_density": 0.0,
+    "num_variables": 7,
+    "indentation_consistency": 0.10593220338983052,
+    "repetition_score": 0.2068965517241379,
+    "overexplanation_score": 0,
+    "file_name": "342.cpp"
+  },
+  {
+    "avg_var_length": 2.75,
+    "comment_density": 0.15384615384615385,
+    "num_variables": 23,
+    "indentation_consistency": 0.04477611940298508,
+    "repetition_score": 0.08333333333333337,
+    "overexplanation_score": 3.5,
+    "file_name": "343.py"
+  },
+  {
+    "avg_var_length": 2.962962962962963,
+    "comment_density": 0.0,
+    "num_variables": 26,
+    "indentation_consistency": 0.07640306402405563,
+    "repetition_score": 0.2753623188405797,
+    "overexplanation_score": 0,
+    "file_name": "344.cpp"
+  },
+  {
+    "avg_var_length": 3.857142857142857,
+    "comment_density": 0.2222222222222222,
+    "num_variables": 6,
+    "indentation_consistency": 0.28089887640449435,
+    "repetition_score": 0.19047619047619047,
+    "overexplanation_score": 6.166666666666667,
+    "file_name": "345.cpp"
+  },
+  {
+    "avg_var_length": 1.2,
+    "comment_density": 0.15151515151515152,
+    "num_variables": 9,
+    "indentation_consistency": 0.10211251328988122,
+    "repetition_score": 0.21818181818181814,
+    "overexplanation_score": 5.7,
+    "file_name": "346.cpp"
+  },
+  {
+    "avg_var_length": 8.014705882352942,
+    "comment_density": 0.1568627450980392,
+    "num_variables": 67,
+    "indentation_consistency": 0.0626934984520124,
+    "repetition_score": 0.023809523809523836,
+    "overexplanation_score": 7.875,
+    "file_name": "347.py"
+  },
+  {
+    "avg_var_length": 6.125,
+    "comment_density": 0.17073170731707318,
+    "num_variables": 7,
+    "indentation_consistency": 0.11893203883495142,
+    "repetition_score": 0.19444444444444442,
+    "overexplanation_score": 5.714285714285714,
+    "file_name": "348.cpp"
+  },
+  {
+    "avg_var_length": 4.285714285714286,
+    "comment_density": 0.1111111111111111,
+    "num_variables": 34,
+    "indentation_consistency": 0.21052631578947367,
+    "repetition_score": 0.0714285714285714,
+    "overexplanation_score": 6.5,
+    "file_name": "349.py"
+  },
+  {
+    "avg_var_length": 7.0,
+    "comment_density": 0.3,
+    "num_variables": 7,
+    "indentation_consistency": 1.0,
+    "repetition_score": 0.11111111111111116,
+    "overexplanation_score": 11.333333333333334,
+    "file_name": "35.py"
+  },
+  {
+    "avg_var_length": 4.026666666666666,
+    "comment_density": 0.125,
+    "num_variables": 74,
+    "indentation_consistency": 0.06086519114688133,
+    "repetition_score": 0.0625,
+    "overexplanation_score": 7.428571428571429,
+    "file_name": "350.py"
+  },
+  {
+    "avg_var_length": 1.2,
+    "comment_density": 0.13333333333333333,
+    "num_variables": 9,
+    "indentation_consistency": 0.10077519379844961,
+    "repetition_score": 0.19354838709677424,
+    "overexplanation_score": 6.8,
+    "file_name": "351.cpp"
+  },
+  {
+    "avg_var_length": 3.230769230769231,
+    "comment_density": 0.12658227848101267,
+    "num_variables": 12,
+    "indentation_consistency": 0.11388411791510387,
+    "repetition_score": 0.171875,
+    "overexplanation_score": 6.9,
+    "file_name": "352.cpp"
+  },
+  {
+    "avg_var_length": 7.4,
+    "comment_density": 0.5,
+    "num_variables": 4,
+    "indentation_consistency": 0.5,
+    "repetition_score": 0.5,
+    "overexplanation_score": 3.0,
+    "file_name": "353.py"
+  },
+  {
+    "avg_var_length": 5.125,
+    "comment_density": 0.11764705882352941,
+    "num_variables": 7,
+    "indentation_consistency": 0.11386409182000375,
+    "repetition_score": 0.14814814814814814,
+    "overexplanation_score": 4.25,
+    "file_name": "354.cpp"
+  },
+  {
+    "avg_var_length": 2.6666666666666665,
+    "comment_density": 0.0,
+    "num_variables": 11,
+    "indentation_consistency": 0.08895591892893052,
+    "repetition_score": 0.18604651162790697,
+    "overexplanation_score": 0,
+    "file_name": "355.cpp"
+  },
+  {
+    "avg_var_length": 4.407407407407407,
+    "comment_density": 0.1,
+    "num_variables": 26,
+    "indentation_consistency": 0.09219858156028368,
+    "repetition_score": 0.0625,
+    "overexplanation_score": 3.0,
+    "file_name": "356.py"
+  },
+  {
+    "avg_var_length": 2.5,
+    "comment_density": 0.09523809523809523,
+    "num_variables": 7,
+    "indentation_consistency": 0.13043478260869565,
+    "repetition_score": 0.20588235294117652,
+    "overexplanation_score": 5.5,
+    "file_name": "357.cpp"
+  },
+  {
+    "avg_var_length": 2.1818181818181817,
+    "comment_density": 0.05263157894736842,
+    "num_variables": 10,
+    "indentation_consistency": 0.057576560548131935,
+    "repetition_score": 0.1875,
+    "overexplanation_score": 3.3333333333333335,
+    "file_name": "358.cpp"
+  },
+  {
+    "avg_var_length": 4.419354838709677,
+    "comment_density": 0.047619047619047616,
+    "num_variables": 30,
+    "indentation_consistency": 0.09050112191473449,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 3.0,
+    "file_name": "359.py"
+  },
+  {
+    "avg_var_length": 3.769230769230769,
+    "comment_density": 0.04477611940298507,
+    "num_variables": 12,
+    "indentation_consistency": 0.07200685371599916,
+    "repetition_score": 0.13461538461538458,
+    "overexplanation_score": 4.666666666666667,
+    "file_name": "36.cpp"
+  },
+  {
+    "avg_var_length": 6.2727272727272725,
+    "comment_density": 0.1,
+    "num_variables": 10,
+    "indentation_consistency": 0.25,
+    "repetition_score": 0.11111111111111116,
+    "overexplanation_score": 3.0,
+    "file_name": "360.py"
+  },
+  {
+    "avg_var_length": 4.074074074074074,
+    "comment_density": 0.0392156862745098,
+    "num_variables": 80,
+    "indentation_consistency": 0.05458221024258762,
+    "repetition_score": 0.046511627906976716,
+    "overexplanation_score": 5.5,
+    "file_name": "361.py"
+  },
+  {
+    "avg_var_length": 2.25,
+    "comment_density": 0.0,
+    "num_variables": 3,
+    "indentation_consistency": 1.0,
+    "repetition_score": 0.09999999999999998,
+    "overexplanation_score": 0,
+    "file_name": "362.cpp"
+  },
+  {
+    "avg_var_length": 2.962962962962963,
+    "comment_density": 0.0,
+    "num_variables": 26,
+    "indentation_consistency": 0.07609470266846145,
+    "repetition_score": 0.296875,
+    "overexplanation_score": 0,
+    "file_name": "363.cpp"
+  },
+  {
+    "avg_var_length": 6.904761904761905,
+    "comment_density": 0.023809523809523808,
+    "num_variables": 41,
+    "indentation_consistency": 0.04470639757673075,
+    "repetition_score": 0.030303030303030276,
+    "overexplanation_score": 3.0,
+    "file_name": "364.py"
+  },
+  {
+    "avg_var_length": 4.235294117647059,
+    "comment_density": 0.11764705882352941,
+    "num_variables": 33,
+    "indentation_consistency": 0.2033195020746888,
+    "repetition_score": 0.07692307692307687,
+    "overexplanation_score": 3.0,
+    "file_name": "365.py"
+  },
+  {
+    "avg_var_length": 4.48,
+    "comment_density": 0.05555555555555555,
+    "num_variables": 24,
+    "indentation_consistency": 0.07913669064748201,
+    "repetition_score": 0.0625,
+    "overexplanation_score": 3.0,
+    "file_name": "366.py"
+  },
+  {
+    "avg_var_length": 2.2083333333333335,
+    "comment_density": 0.13333333333333333,
+    "num_variables": 23,
+    "indentation_consistency": 0.03686982693754703,
+    "repetition_score": 0.08333333333333337,
+    "overexplanation_score": 6.5,
+    "file_name": "367.py"
+  },
+  {
+    "avg_var_length": 4.4375,
+    "comment_density": 0.047619047619047616,
+    "num_variables": 31,
+    "indentation_consistency": 0.09433962264150944,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 3.0,
+    "file_name": "368.py"
+  },
+  {
+    "avg_var_length": 5.5,
+    "comment_density": 0.0,
+    "num_variables": 5,
+    "indentation_consistency": 0.1479774705581158,
+    "repetition_score": 0.20833333333333337,
+    "overexplanation_score": 0,
+    "file_name": "369.cpp"
+  },
+  {
+    "avg_var_length": 3.0,
+    "comment_density": 0.07692307692307693,
+    "num_variables": 12,
+    "indentation_consistency": 0.03827048642569278,
+    "repetition_score": 0.20454545454545459,
+    "overexplanation_score": 7.25,
+    "file_name": "37.cpp"
+  },
+  {
+    "avg_var_length": 3.123076923076923,
+    "comment_density": 0.18421052631578946,
+    "num_variables": 64,
+    "indentation_consistency": 0.05034256776884123,
+    "repetition_score": 0.06451612903225812,
+    "overexplanation_score": 6.428571428571429,
+    "file_name": "370.py"
+  },
+  {
+    "avg_var_length": 2.3076923076923075,
+    "comment_density": 0.05263157894736842,
+    "num_variables": 12,
+    "indentation_consistency": 0.057437407952871875,
+    "repetition_score": 0.22916666666666663,
+    "overexplanation_score": 4.0,
+    "file_name": "371.cpp"
+  },
+  {
+    "avg_var_length": 5.5,
+    "comment_density": 0.0196078431372549,
+    "num_variables": 9,
+    "indentation_consistency": 0.06872370266479659,
+    "repetition_score": 0.14634146341463417,
+    "overexplanation_score": 12.0,
+    "file_name": "372.cpp"
+  },
+  {
+    "avg_var_length": 4.0,
+    "comment_density": 0.0625,
+    "num_variables": 16,
+    "indentation_consistency": 0.06561679790026244,
+    "repetition_score": 0.2028985507246377,
+    "overexplanation_score": 6.0,
+    "file_name": "373.cpp"
+  },
+  {
+    "avg_var_length": 3.2222222222222223,
+    "comment_density": 0.20408163265306123,
+    "num_variables": 8,
+    "indentation_consistency": 0.07739389546589359,
+    "repetition_score": 0.15000000000000002,
+    "overexplanation_score": 8.1,
+    "file_name": "374.cpp"
+  },
+  {
+    "avg_var_length": 5.555555555555555,
+    "comment_density": 0.0,
+    "num_variables": 17,
+    "indentation_consistency": 0.3379310344827586,
+    "repetition_score": 0.09999999999999998,
+    "overexplanation_score": 0,
+    "file_name": "375.py"
+  },
+  {
+    "avg_var_length": 2.0,
+    "comment_density": 0.030303030303030304,
+    "num_variables": 13,
+    "indentation_consistency": 0.0680845030483482,
+    "repetition_score": 0.19999999999999996,
+    "overexplanation_score": 4.0,
+    "file_name": "376.cpp"
+  },
+  {
+    "avg_var_length": 4.6911764705882355,
+    "comment_density": 0.1388888888888889,
+    "num_variables": 67,
+    "indentation_consistency": 0.05573770491803279,
+    "repetition_score": 0.03448275862068961,
+    "overexplanation_score": 6.0,
+    "file_name": "377.py"
+  },
+  {
+    "avg_var_length": 5.222222222222222,
+    "comment_density": 0.023809523809523808,
+    "num_variables": 8,
+    "indentation_consistency": 0.12328767123287672,
+    "repetition_score": 0.16129032258064513,
+    "overexplanation_score": 7.0,
+    "file_name": "378.cpp"
+  },
+  {
+    "avg_var_length": 3.1666666666666665,
+    "comment_density": 0.11538461538461539,
+    "num_variables": 5,
+    "indentation_consistency": 0.28089887640449435,
+    "repetition_score": 0.19047619047619047,
+    "overexplanation_score": 6.0,
+    "file_name": "379.cpp"
+  },
+  {
+    "avg_var_length": 2.1666666666666665,
+    "comment_density": 0.0,
+    "num_variables": 29,
+    "indentation_consistency": 0.0825938566552901,
+    "repetition_score": 0.1875,
+    "overexplanation_score": 0,
+    "file_name": "38.py"
+  },
+  {
+    "avg_var_length": 4.5,
+    "comment_density": 0.3076923076923077,
+    "num_variables": 29,
+    "indentation_consistency": 0.11851851851851852,
+    "repetition_score": 0.04761904761904767,
+    "overexplanation_score": 7.5,
+    "file_name": "380.py"
+  },
+  {
+    "avg_var_length": 4.333333333333333,
+    "comment_density": 0.06666666666666667,
+    "num_variables": 77,
+    "indentation_consistency": 0.05493273542600896,
+    "repetition_score": 0.05128205128205132,
+    "overexplanation_score": 6.0,
+    "file_name": "381.py"
+  },
+  {
+    "avg_var_length": 2.909090909090909,
+    "comment_density": 0.057692307692307696,
+    "num_variables": 10,
+    "indentation_consistency": 0.0802564669467168,
+    "repetition_score": 0.16666666666666663,
+    "overexplanation_score": 7.666666666666667,
+    "file_name": "382.cpp"
+  },
+  {
+    "avg_var_length": 3.033333333333333,
+    "comment_density": 0.1111111111111111,
+    "num_variables": 29,
+    "indentation_consistency": 0.05827505827505827,
+    "repetition_score": 0.0714285714285714,
+    "overexplanation_score": 3.0,
+    "file_name": "383.py"
+  },
+  {
+    "avg_var_length": 2.8181818181818183,
+    "comment_density": 0.12962962962962962,
+    "num_variables": 10,
+    "indentation_consistency": 0.06477732793522267,
+    "repetition_score": 0.16279069767441856,
+    "overexplanation_score": 6.428571428571429,
+    "file_name": "384.cpp"
+  },
+  {
+    "avg_var_length": 5.769230769230769,
+    "comment_density": 0.0,
+    "num_variables": 64,
+    "indentation_consistency": 0.039273869785302847,
+    "repetition_score": 0.027027027027026973,
+    "overexplanation_score": 0,
+    "file_name": "385.py"
+  },
+  {
+    "avg_var_length": 3.888888888888889,
+    "comment_density": 0.0,
+    "num_variables": 8,
+    "indentation_consistency": 0.27327781983345945,
+    "repetition_score": 0.15384615384615385,
+    "overexplanation_score": 0,
+    "file_name": "386.cpp"
+  },
+  {
+    "avg_var_length": 4.214285714285714,
+    "comment_density": 0.21428571428571427,
+    "num_variables": 27,
+    "indentation_consistency": 0.12224856078564168,
+    "repetition_score": 0.04761904761904767,
+    "overexplanation_score": 8.833333333333334,
+    "file_name": "387.py"
+  },
+  {
+    "avg_var_length": 3.0,
+    "comment_density": 0.20689655172413793,
+    "num_variables": 4,
+    "indentation_consistency": 1.0,
+    "repetition_score": 0.09090909090909094,
+    "overexplanation_score": 7.166666666666667,
+    "file_name": "388.cpp"
+  },
+  {
+    "avg_var_length": 4.205882352941177,
+    "comment_density": 0.18181818181818182,
+    "num_variables": 33,
+    "indentation_consistency": 0.2396039603960396,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 5.75,
+    "file_name": "389.py"
+  },
+  {
+    "avg_var_length": 4.0,
+    "comment_density": 0.02631578947368421,
+    "num_variables": 6,
+    "indentation_consistency": 0.11535836177474403,
+    "repetition_score": 0.19999999999999996,
+    "overexplanation_score": 9.0,
+    "file_name": "39.cpp"
+  },
+  {
+    "avg_var_length": 2.1538461538461537,
+    "comment_density": 0.015384615384615385,
+    "num_variables": 12,
+    "indentation_consistency": 0.07468259895444358,
+    "repetition_score": 0.1428571428571429,
+    "overexplanation_score": 6.0,
+    "file_name": "390.cpp"
+  },
+  {
+    "avg_var_length": 2.9375,
+    "comment_density": 0.03409090909090909,
+    "num_variables": 15,
+    "indentation_consistency": 0.07047104987482468,
+    "repetition_score": 0.21333333333333337,
+    "overexplanation_score": 5.333333333333333,
+    "file_name": "391.cpp"
+  },
+  {
+    "avg_var_length": 8.333333333333334,
+    "comment_density": 0.0,
+    "num_variables": 2,
+    "indentation_consistency": 1.0,
+    "repetition_score": 0.15384615384615385,
+    "overexplanation_score": 0,
+    "file_name": "392.cpp"
+  },
+  {
+    "avg_var_length": 4.285714285714286,
+    "comment_density": 0.2,
+    "num_variables": 34,
+    "indentation_consistency": 0.2293577981651376,
+    "repetition_score": 0.0625,
+    "overexplanation_score": 9.5,
+    "file_name": "393.py"
+  },
+  {
+    "avg_var_length": 2.625,
+    "comment_density": 0.1,
+    "num_variables": 7,
+    "indentation_consistency": 0.07439186200796115,
+    "repetition_score": 0.1707317073170732,
+    "overexplanation_score": 5.6,
+    "file_name": "394.cpp"
+  },
+  {
+    "avg_var_length": 2.0869565217391304,
+    "comment_density": 0.09523809523809523,
+    "num_variables": 22,
+    "indentation_consistency": 0.21951219512195114,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 3.0,
+    "file_name": "395.py"
+  },
+  {
+    "avg_var_length": 2.909090909090909,
+    "comment_density": 0.06666666666666667,
+    "num_variables": 10,
+    "indentation_consistency": 0.05423728813559322,
+    "repetition_score": 0.23076923076923073,
+    "overexplanation_score": 7.666666666666667,
+    "file_name": "396.cpp"
+  },
+  {
+    "avg_var_length": 6.769230769230769,
+    "comment_density": 0.06060606060606061,
+    "num_variables": 38,
+    "indentation_consistency": 0.09272030651340993,
+    "repetition_score": 0.0357142857142857,
+    "overexplanation_score": 6.0,
+    "file_name": "397.py"
+  },
+  {
+    "avg_var_length": 6.645161290322581,
+    "comment_density": 0.1111111111111111,
+    "num_variables": 30,
+    "indentation_consistency": 0.0950510604870385,
+    "repetition_score": 0.0714285714285714,
+    "overexplanation_score": 3.0,
+    "file_name": "398.py"
+  },
+  {
+    "avg_var_length": 2.5,
+    "comment_density": 0.0392156862745098,
+    "num_variables": 9,
+    "indentation_consistency": 0.11065842124408874,
+    "repetition_score": 0.2142857142857143,
+    "overexplanation_score": 9.5,
+    "file_name": "399.cpp"
+  },
+  {
+    "avg_var_length": 5.125,
+    "comment_density": 0.11627906976744186,
+    "num_variables": 7,
+    "indentation_consistency": 0.12328767123287672,
+    "repetition_score": 0.20588235294117652,
+    "overexplanation_score": 8.0,
+    "file_name": "4.cpp"
+  },
+  {
+    "avg_var_length": 3.5,
+    "comment_density": 0.0,
+    "num_variables": 7,
+    "indentation_consistency": 0.2,
+    "repetition_score": 0.125,
+    "overexplanation_score": 0,
+    "file_name": "40.py"
+  },
+  {
+    "avg_var_length": 3.0,
+    "comment_density": 0.07042253521126761,
+    "num_variables": 12,
+    "indentation_consistency": 0.06180339262271873,
+    "repetition_score": 0.1724137931034483,
+    "overexplanation_score": 6.4,
+    "file_name": "400.cpp"
+  },
+  {
+    "avg_var_length": 7.166666666666667,
+    "comment_density": 0.0,
+    "num_variables": 5,
+    "indentation_consistency": 0.0656934306569343,
+    "repetition_score": 0.1923076923076923,
+    "overexplanation_score": 0,
+    "file_name": "401.cpp"
+  },
+  {
+    "avg_var_length": 4.444444444444445,
+    "comment_density": 0.3023255813953488,
+    "num_variables": 8,
+    "indentation_consistency": 0.12221618685497007,
+    "repetition_score": 0.18918918918918914,
+    "overexplanation_score": 6.230769230769231,
+    "file_name": "402.cpp"
+  },
+  {
+    "avg_var_length": 3.3636363636363638,
+    "comment_density": 0.037037037037037035,
+    "num_variables": 21,
+    "indentation_consistency": 0.11550585658824694,
+    "repetition_score": 0.2272727272727273,
+    "overexplanation_score": 5.0,
+    "file_name": "403.cpp"
+  },
+  {
+    "avg_var_length": 5.142857142857143,
+    "comment_density": 0.0,
+    "num_variables": 6,
+    "indentation_consistency": 0.0745713695517455,
+    "repetition_score": 0.2222222222222222,
+    "overexplanation_score": 0,
+    "file_name": "404.cpp"
+  },
+  {
+    "avg_var_length": 3.870967741935484,
+    "comment_density": 0.11764705882352941,
+    "num_variables": 30,
+    "indentation_consistency": 0.21052631578947367,
+    "repetition_score": 0.07692307692307687,
+    "overexplanation_score": 3.0,
+    "file_name": "405.py"
+  },
+  {
+    "avg_var_length": 6.833333333333333,
+    "comment_density": 0.0,
+    "num_variables": 5,
+    "indentation_consistency": 0.3797752808988764,
+    "repetition_score": 0.14814814814814814,
+    "overexplanation_score": 0,
+    "file_name": "406.cpp"
+  },
+  {
+    "avg_var_length": 3.1875,
+    "comment_density": 0.0,
+    "num_variables": 15,
+    "indentation_consistency": 0.06555954889081667,
+    "repetition_score": 0.2407407407407407,
+    "overexplanation_score": 0,
+    "file_name": "407.cpp"
+  },
+  {
+    "avg_var_length": 6.611111111111111,
+    "comment_density": 0.14634146341463414,
+    "num_variables": 53,
+    "indentation_consistency": 0.08399408681628813,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 6.5,
+    "file_name": "408.py"
+  },
+  {
+    "avg_var_length": 5.4,
+    "comment_density": 0.25,
+    "num_variables": 9,
+    "indentation_consistency": 1.0,
+    "repetition_score": 0.09999999999999998,
+    "overexplanation_score": 7.333333333333333,
+    "file_name": "409.py"
+  },
+  {
+    "avg_var_length": 3.5,
+    "comment_density": 0.0,
+    "num_variables": 7,
+    "indentation_consistency": 0.09272030651341003,
+    "repetition_score": 0.10416666666666663,
+    "overexplanation_score": 0,
+    "file_name": "41.cpp"
+  },
+  {
+    "avg_var_length": 2.3181818181818183,
+    "comment_density": 0.21052631578947367,
+    "num_variables": 21,
+    "indentation_consistency": 0.2808988764044943,
+    "repetition_score": 0.06666666666666665,
+    "overexplanation_score": 5.75,
+    "file_name": "410.py"
+  },
+  {
+    "avg_var_length": 4.0,
+    "comment_density": 0.0,
+    "num_variables": 6,
+    "indentation_consistency": 0.10832587287376898,
+    "repetition_score": 0.19354838709677424,
+    "overexplanation_score": 0,
+    "file_name": "411.cpp"
+  },
+  {
+    "avg_var_length": 2.0,
+    "comment_density": 0.0,
+    "num_variables": 1,
+    "indentation_consistency": 1.0,
+    "repetition_score": 0.16666666666666663,
+    "overexplanation_score": 0,
+    "file_name": "412.cpp"
+  },
+  {
+    "avg_var_length": 3.2666666666666666,
+    "comment_density": 0.0625,
+    "num_variables": 14,
+    "indentation_consistency": 0.08073855023483505,
+    "repetition_score": 0.21739130434782605,
+    "overexplanation_score": 6.0,
+    "file_name": "413.cpp"
+  },
+  {
+    "avg_var_length": 7.222222222222222,
+    "comment_density": 0.045454545454545456,
+    "num_variables": 8,
+    "indentation_consistency": 1.0,
+    "repetition_score": 0.08108108108108103,
+    "overexplanation_score": 3.5,
+    "file_name": "414.cpp"
+  },
+  {
+    "avg_var_length": 5.833333333333333,
+    "comment_density": 0.0,
+    "num_variables": 5,
+    "indentation_consistency": 0.06210392902408111,
+    "repetition_score": 0.2272727272727273,
+    "overexplanation_score": 0,
+    "file_name": "415.cpp"
+  },
+  {
+    "avg_var_length": 2.1666666666666665,
+    "comment_density": 0.0,
+    "num_variables": 5,
+    "indentation_consistency": 0.09917355371900825,
+    "repetition_score": 0.1923076923076923,
+    "overexplanation_score": 0,
+    "file_name": "416.cpp"
+  },
+  {
+    "avg_var_length": 5.911764705882353,
+    "comment_density": 0.2127659574468085,
+    "num_variables": 33,
+    "indentation_consistency": 0.05959991750876469,
+    "repetition_score": 0.02631578947368418,
+    "overexplanation_score": 8.2,
+    "file_name": "417.py"
+  },
+  {
+    "avg_var_length": 0.9285714285714286,
+    "comment_density": 0.0,
+    "num_variables": 13,
+    "indentation_consistency": 0.1323529411764706,
+    "repetition_score": 0.2857142857142857,
+    "overexplanation_score": 0,
+    "file_name": "418.py"
+  },
+  {
+    "avg_var_length": 3.358490566037736,
+    "comment_density": 0.04,
+    "num_variables": 52,
+    "indentation_consistency": 0.025565276673105323,
+    "repetition_score": 0.04761904761904767,
+    "overexplanation_score": 3.0,
+    "file_name": "419.py"
+  },
+  {
+    "avg_var_length": 2.0,
+    "comment_density": 0.0,
+    "num_variables": 12,
+    "indentation_consistency": 0.07251631617113848,
+    "repetition_score": 0.14,
+    "overexplanation_score": 0,
+    "file_name": "42.cpp"
+  },
+  {
+    "avg_var_length": 3.310344827586207,
+    "comment_density": 0.11764705882352941,
+    "num_variables": 28,
+    "indentation_consistency": 0.05827505827505827,
+    "repetition_score": 0.07692307692307687,
+    "overexplanation_score": 3.0,
+    "file_name": "420.py"
+  },
+  {
+    "avg_var_length": 6.777777777777778,
+    "comment_density": 0.14285714285714285,
+    "num_variables": 26,
+    "indentation_consistency": 0.10816777041942603,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 6.0,
+    "file_name": "421.py"
+  },
+  {
+    "avg_var_length": 4.142857142857143,
+    "comment_density": 0.25,
+    "num_variables": 6,
+    "indentation_consistency": 0.5,
+    "repetition_score": 0.25,
+    "overexplanation_score": 5.0,
+    "file_name": "422.py"
+  },
+  {
+    "avg_var_length": 5.0,
+    "comment_density": 0.047619047619047616,
+    "num_variables": 4,
+    "indentation_consistency": 0.25,
+    "repetition_score": 0.21052631578947367,
+    "overexplanation_score": 3.0,
+    "file_name": "423.cpp"
+  },
+  {
+    "avg_var_length": 2.4545454545454546,
+    "comment_density": 0.02127659574468085,
+    "num_variables": 10,
+    "indentation_consistency": 0.06857665345931112,
+    "repetition_score": 0.21052631578947367,
+    "overexplanation_score": 8.0,
+    "file_name": "424.cpp"
+  },
+  {
+    "avg_var_length": 5.382352941176471,
+    "comment_density": 0.18604651162790697,
+    "num_variables": 33,
+    "indentation_consistency": 0.055138662316476336,
+    "repetition_score": 0.02857142857142858,
+    "overexplanation_score": 7.125,
+    "file_name": "425.py"
+  },
+  {
+    "avg_var_length": 1.75,
+    "comment_density": 0.023809523809523808,
+    "num_variables": 7,
+    "indentation_consistency": 0.08785630613041788,
+    "repetition_score": 0.2571428571428571,
+    "overexplanation_score": 9.0,
+    "file_name": "426.cpp"
+  },
+  {
+    "avg_var_length": 2.0714285714285716,
+    "comment_density": 0.0,
+    "num_variables": 13,
+    "indentation_consistency": 0.11080364349129486,
+    "repetition_score": 0.2222222222222222,
+    "overexplanation_score": 0,
+    "file_name": "427.cpp"
+  },
+  {
+    "avg_var_length": 2.5,
+    "comment_density": 0.11475409836065574,
+    "num_variables": 13,
+    "indentation_consistency": 0.059330014798869915,
+    "repetition_score": 0.1923076923076923,
+    "overexplanation_score": 3.857142857142857,
+    "file_name": "428.cpp"
+  },
+  {
+    "avg_var_length": 2.5,
+    "comment_density": 0.0,
+    "num_variables": 7,
+    "indentation_consistency": 0.21052631578947367,
+    "repetition_score": 0.13043478260869568,
+    "overexplanation_score": 0,
+    "file_name": "429.cpp"
+  },
+  {
+    "avg_var_length": 1.2222222222222223,
+    "comment_density": 0.0392156862745098,
+    "num_variables": 8,
+    "indentation_consistency": 0.13764044943820217,
+    "repetition_score": 0.2682926829268293,
+    "overexplanation_score": 6.5,
+    "file_name": "43.cpp"
+  },
+  {
+    "avg_var_length": 2.896551724137931,
+    "comment_density": 0.058823529411764705,
+    "num_variables": 28,
+    "indentation_consistency": 0.05333333333333334,
+    "repetition_score": 0.07692307692307687,
+    "overexplanation_score": 3.0,
+    "file_name": "430.py"
+  },
+  {
+    "avg_var_length": 1.5,
+    "comment_density": 0.058823529411764705,
+    "num_variables": 9,
+    "indentation_consistency": 0.10287337586736825,
+    "repetition_score": 0.19999999999999996,
+    "overexplanation_score": 6.75,
+    "file_name": "431.cpp"
+  },
+  {
+    "avg_var_length": 6.269230769230769,
+    "comment_density": 0.10526315789473684,
+    "num_variables": 25,
+    "indentation_consistency": 0.09782608695652174,
+    "repetition_score": 0.06666666666666665,
+    "overexplanation_score": 3.0,
+    "file_name": "432.py"
+  },
+  {
+    "avg_var_length": 6.061224489795919,
+    "comment_density": 0.2558139534883721,
+    "num_variables": 48,
+    "indentation_consistency": 0.0920863309352518,
+    "repetition_score": 0.02857142857142858,
+    "overexplanation_score": 8.181818181818182,
+    "file_name": "433.py"
+  },
+  {
+    "avg_var_length": 5.129032258064516,
+    "comment_density": 0.19230769230769232,
+    "num_variables": 30,
+    "indentation_consistency": 0.1596877217885025,
+    "repetition_score": 0.04347826086956519,
+    "overexplanation_score": 4.0,
+    "file_name": "435.py"
+  },
+  {
+    "avg_var_length": 0.0,
+    "comment_density": 0.14285714285714285,
+    "num_variables": 0,
+    "indentation_consistency": 0.5,
+    "repetition_score": 0.16666666666666663,
+    "overexplanation_score": 7.0,
+    "file_name": "436.cpp"
+  },
+  {
+    "avg_var_length": 4.368421052631579,
+    "comment_density": 0.09523809523809523,
+    "num_variables": 75,
+    "indentation_consistency": 0.053558772906753024,
+    "repetition_score": 0.054545454545454564,
+    "overexplanation_score": 6.5,
+    "file_name": "437.py"
+  },
+  {
+    "avg_var_length": 5.98,
+    "comment_density": 0.12195121951219512,
+    "num_variables": 49,
+    "indentation_consistency": 0.09441359032995758,
+    "repetition_score": 0.03125,
+    "overexplanation_score": 8.6,
+    "file_name": "438.py"
+  },
+  {
+    "avg_var_length": 7.857142857142857,
+    "comment_density": 0.07142857142857142,
+    "num_variables": 6,
+    "indentation_consistency": 0.12093802345058627,
+    "repetition_score": 0.18181818181818177,
+    "overexplanation_score": 9.333333333333334,
+    "file_name": "439.cpp"
+  },
+  {
+    "avg_var_length": 3.8125,
+    "comment_density": 0.0,
+    "num_variables": 15,
+    "indentation_consistency": 0.04325181602803828,
+    "repetition_score": 0.18518518518518523,
+    "overexplanation_score": 0,
+    "file_name": "44.cpp"
+  },
+  {
+    "avg_var_length": 5.833333333333333,
+    "comment_density": 0.0,
+    "num_variables": 5,
+    "indentation_consistency": 0.06448839208942392,
+    "repetition_score": 0.19999999999999996,
+    "overexplanation_score": 0,
+    "file_name": "440.cpp"
+  },
+  {
+    "avg_var_length": 2.1538461538461537,
+    "comment_density": 0.01694915254237288,
+    "num_variables": 12,
+    "indentation_consistency": 0.04318117598705336,
+    "repetition_score": 0.26415094339622647,
+    "overexplanation_score": 2.0,
+    "file_name": "441.cpp"
+  },
+  {
+    "avg_var_length": 3.6,
+    "comment_density": 0.06666666666666667,
+    "num_variables": 14,
+    "indentation_consistency": 0.09783563613129943,
+    "repetition_score": 0.22448979591836737,
+    "overexplanation_score": 5.75,
+    "file_name": "442.cpp"
+  },
+  {
+    "avg_var_length": 5.217391304347826,
+    "comment_density": 0.10344827586206896,
+    "num_variables": 45,
+    "indentation_consistency": 0.056055363321799306,
+    "repetition_score": 0.04166666666666663,
+    "overexplanation_score": 3.3333333333333335,
+    "file_name": "443.py"
+  },
+  {
+    "avg_var_length": 2.526315789473684,
+    "comment_density": 0.015384615384615385,
+    "num_variables": 18,
+    "indentation_consistency": 0.07984959079849588,
+    "repetition_score": 0.3921568627450981,
+    "overexplanation_score": 4.0,
+    "file_name": "444.cpp"
+  },
+  {
+    "avg_var_length": 3.8771929824561404,
+    "comment_density": 0.21052631578947367,
+    "num_variables": 56,
+    "indentation_consistency": 0.05960046227505364,
+    "repetition_score": 0.0625,
+    "overexplanation_score": 8.0,
+    "file_name": "445.py"
+  },
+  {
+    "avg_var_length": 2.8125,
+    "comment_density": 0.1566265060240964,
+    "num_variables": 15,
+    "indentation_consistency": 0.07687381935773056,
+    "repetition_score": 0.28787878787878785,
+    "overexplanation_score": 9.538461538461538,
+    "file_name": "446.cpp"
+  },
+  {
+    "avg_var_length": 2.357142857142857,
+    "comment_density": 0.0,
+    "num_variables": 13,
+    "indentation_consistency": 0.11529411764705895,
+    "repetition_score": 0.22058823529411764,
+    "overexplanation_score": 0,
+    "file_name": "447.cpp"
+  },
+  {
+    "avg_var_length": 3.1333333333333333,
+    "comment_density": 0.12727272727272726,
+    "num_variables": 14,
+    "indentation_consistency": 0.06155157715260013,
+    "repetition_score": 0.15909090909090906,
+    "overexplanation_score": 7.857142857142857,
+    "file_name": "448.cpp"
+  },
+  {
+    "avg_var_length": 1.2857142857142858,
+    "comment_density": 0.0,
+    "num_variables": 6,
+    "indentation_consistency": 0.1436950146627567,
+    "repetition_score": 0.2564102564102564,
+    "overexplanation_score": 0,
+    "file_name": "449.cpp"
+  },
+  {
+    "avg_var_length": 2.1818181818181817,
+    "comment_density": 0.1016949152542373,
+    "num_variables": 10,
+    "indentation_consistency": 0.058294778585591525,
+    "repetition_score": 0.17647058823529416,
+    "overexplanation_score": 6.5,
+    "file_name": "45.cpp"
+  },
+  {
+    "avg_var_length": 4.202898550724638,
+    "comment_density": 0.1875,
+    "num_variables": 68,
+    "indentation_consistency": 0.072427435465549,
+    "repetition_score": 0.022727272727272707,
+    "overexplanation_score": 5.777777777777778,
+    "file_name": "450.py"
+  },
+  {
+    "avg_var_length": 6.896551724137931,
+    "comment_density": 0.11764705882352941,
+    "num_variables": 28,
+    "indentation_consistency": 0.12696747114375656,
+    "repetition_score": 0.0714285714285714,
+    "overexplanation_score": 3.0,
+    "file_name": "451.py"
+  },
+  {
+    "avg_var_length": 3.8421052631578947,
+    "comment_density": 0.15789473684210525,
+    "num_variables": 56,
+    "indentation_consistency": 0.06481481481481481,
+    "repetition_score": 0.032258064516129004,
+    "overexplanation_score": 5.666666666666667,
+    "file_name": "452.py"
+  },
+  {
+    "avg_var_length": 4.142857142857143,
+    "comment_density": 0.0,
+    "num_variables": 6,
+    "indentation_consistency": 0.16981132075471708,
+    "repetition_score": 0.17647058823529416,
+    "overexplanation_score": 0,
+    "file_name": "453.cpp"
+  },
+  {
+    "avg_var_length": 2.4375,
+    "comment_density": 0.014492753623188406,
+    "num_variables": 15,
+    "indentation_consistency": 0.07555250985095084,
+    "repetition_score": 0.1454545454545455,
+    "overexplanation_score": 6.0,
+    "file_name": "454.cpp"
+  },
+  {
+    "avg_var_length": 5.0,
+    "comment_density": 0.0,
+    "num_variables": 6,
+    "indentation_consistency": 0.2578055307760928,
+    "repetition_score": 0.19999999999999996,
+    "overexplanation_score": 0,
+    "file_name": "455.cpp"
+  },
+  {
+    "avg_var_length": 4.371794871794871,
+    "comment_density": 0.05555555555555555,
+    "num_variables": 77,
+    "indentation_consistency": 0.056012438116280025,
+    "repetition_score": 0.04347826086956519,
+    "overexplanation_score": 4.333333333333333,
+    "file_name": "456.py"
+  },
+  {
+    "avg_var_length": 4.260869565217392,
+    "comment_density": 0.09375,
+    "num_variables": 22,
+    "indentation_consistency": 0.15360983102918602,
+    "repetition_score": 0.2909090909090909,
+    "overexplanation_score": 8.166666666666666,
+    "file_name": "457.cpp"
+  },
+  {
+    "avg_var_length": 5.34375,
+    "comment_density": 0.2222222222222222,
+    "num_variables": 31,
+    "indentation_consistency": 0.2033195020746888,
+    "repetition_score": 0.04166666666666663,
+    "overexplanation_score": 3.5,
+    "file_name": "458.py"
+  },
+  {
+    "avg_var_length": 2.1,
+    "comment_density": 0.13513513513513514,
+    "num_variables": 9,
+    "indentation_consistency": 0.16241610738255038,
+    "repetition_score": 0.16666666666666663,
+    "overexplanation_score": 8.0,
+    "file_name": "459.cpp"
+  },
+  {
+    "avg_var_length": 4.1,
+    "comment_density": 0.1111111111111111,
+    "num_variables": 29,
+    "indentation_consistency": 0.06428571428571428,
+    "repetition_score": 0.0714285714285714,
+    "overexplanation_score": 3.0,
+    "file_name": "46.py"
+  },
+  {
+    "avg_var_length": 10.666666666666666,
+    "comment_density": 0.0,
+    "num_variables": 2,
+    "indentation_consistency": 0.0524625267665953,
+    "repetition_score": 0.2272727272727273,
+    "overexplanation_score": 0,
+    "file_name": "460.cpp"
+  },
+  {
+    "avg_var_length": 4.2,
+    "comment_density": 0.1,
+    "num_variables": 34,
+    "indentation_consistency": 0.21951219512195122,
+    "repetition_score": 0.06666666666666665,
+    "overexplanation_score": 5.5,
+    "file_name": "461.py"
+  },
+  {
+    "avg_var_length": 5.857142857142857,
+    "comment_density": 0.3125,
+    "num_variables": 6,
+    "indentation_consistency": 0.21951219512195122,
+    "repetition_score": 0.0714285714285714,
+    "overexplanation_score": 6.6,
+    "file_name": "462.py"
+  },
+  {
+    "avg_var_length": 8.285714285714286,
+    "comment_density": 0.15789473684210525,
+    "num_variables": 41,
+    "indentation_consistency": 0.06228107646304996,
+    "repetition_score": 0.033333333333333326,
+    "overexplanation_score": 8.0,
+    "file_name": "463.py"
+  },
+  {
+    "avg_var_length": 3.090909090909091,
+    "comment_density": 0.01818181818181818,
+    "num_variables": 10,
+    "indentation_consistency": 0.08174841508174836,
+    "repetition_score": 0.15555555555555556,
+    "overexplanation_score": 6.0,
+    "file_name": "464.cpp"
+  },
+  {
+    "avg_var_length": 5.5,
+    "comment_density": 0.045454545454545456,
+    "num_variables": 9,
+    "indentation_consistency": 0.10679611650485438,
+    "repetition_score": 0.15384615384615385,
+    "overexplanation_score": 5.0,
+    "file_name": "465.cpp"
+  },
+  {
+    "avg_var_length": 2.7142857142857144,
+    "comment_density": 0.02631578947368421,
+    "num_variables": 13,
+    "indentation_consistency": 0.08164255897485688,
+    "repetition_score": 0.171875,
+    "overexplanation_score": 5.5,
+    "file_name": "466.cpp"
+  },
+  {
+    "avg_var_length": 5.956521739130435,
+    "comment_density": 0.3333333333333333,
+    "num_variables": 22,
+    "indentation_consistency": 0.11756168359941943,
+    "repetition_score": 0.06666666666666665,
+    "overexplanation_score": 10.0,
+    "file_name": "467.py"
+  },
+  {
+    "avg_var_length": 5.25,
+    "comment_density": 0.21052631578947367,
+    "num_variables": 19,
+    "indentation_consistency": 0.0891089108910891,
+    "repetition_score": 0.0625,
+    "overexplanation_score": 5.5,
+    "file_name": "468.py"
+  },
+  {
+    "avg_var_length": 1.2,
+    "comment_density": 0.20634920634920634,
+    "num_variables": 9,
+    "indentation_consistency": 0.10210970464135023,
+    "repetition_score": 0.2075471698113207,
+    "overexplanation_score": 6.769230769230769,
+    "file_name": "469.cpp"
+  },
+  {
+    "avg_var_length": 2.4583333333333335,
+    "comment_density": 0.10526315789473684,
+    "num_variables": 47,
+    "indentation_consistency": 0.04025764895330112,
+    "repetition_score": 0.0625,
+    "overexplanation_score": 3.0,
+    "file_name": "47.py"
+  },
+  {
+    "avg_var_length": 3.857142857142857,
+    "comment_density": 0.07894736842105263,
+    "num_variables": 6,
+    "indentation_consistency": 0.40258496888463385,
+    "repetition_score": 0.12903225806451613,
+    "overexplanation_score": 4.0,
+    "file_name": "470.cpp"
+  },
+  {
+    "avg_var_length": 5.714285714285714,
+    "comment_density": 0.0,
+    "num_variables": 6,
+    "indentation_consistency": 0.13881019830028327,
+    "repetition_score": 0.17391304347826086,
+    "overexplanation_score": 0,
+    "file_name": "471.cpp"
+  },
+  {
+    "avg_var_length": 4.214285714285714,
+    "comment_density": 0.16666666666666666,
+    "num_variables": 13,
+    "indentation_consistency": 0.10112359550561797,
+    "repetition_score": 0.09090909090909094,
+    "overexplanation_score": 3.0,
+    "file_name": "472.py"
+  },
+  {
+    "avg_var_length": 2.142857142857143,
+    "comment_density": 0.0,
+    "num_variables": 6,
+    "indentation_consistency": 0.05907062221055394,
+    "repetition_score": 0.2272727272727273,
+    "overexplanation_score": 0,
+    "file_name": "473.cpp"
+  },
+  {
+    "avg_var_length": 3.272727272727273,
+    "comment_density": 0.11764705882352941,
+    "num_variables": 10,
+    "indentation_consistency": 0.027777777777777776,
+    "repetition_score": 0.1228070175438597,
+    "overexplanation_score": 5.875,
+    "file_name": "474.cpp"
+  },
+  {
+    "avg_var_length": 4.104477611940299,
+    "comment_density": 0.2,
+    "num_variables": 66,
+    "indentation_consistency": 0.08432147562582346,
+    "repetition_score": 0.024390243902439046,
+    "overexplanation_score": 7.0,
+    "file_name": "475.py"
+  },
+  {
+    "avg_var_length": 5.0,
+    "comment_density": 0.09090909090909091,
+    "num_variables": 8,
+    "indentation_consistency": 0.31034482758620696,
+    "repetition_score": 0.15384615384615385,
+    "overexplanation_score": 8.666666666666666,
+    "file_name": "476.cpp"
+  },
+  {
+    "avg_var_length": 5.0,
+    "comment_density": 0.17391304347826086,
+    "num_variables": 6,
+    "indentation_consistency": 0.1278631487387648,
+    "repetition_score": 0.13888888888888884,
+    "overexplanation_score": 8.75,
+    "file_name": "477.cpp"
+  },
+  {
+    "avg_var_length": 5.545454545454546,
+    "comment_density": 0.4117647058823529,
+    "num_variables": 32,
+    "indentation_consistency": 0.04038004750593824,
+    "repetition_score": 0.024390243902439046,
+    "overexplanation_score": 5.571428571428571,
+    "file_name": "478.py"
+  },
+  {
+    "avg_var_length": 4.222222222222222,
+    "comment_density": 0.07692307692307693,
+    "num_variables": 80,
+    "indentation_consistency": 0.053147641980129307,
+    "repetition_score": 0.0444444444444444,
+    "overexplanation_score": 5.25,
+    "file_name": "479.py"
+  },
+  {
+    "avg_var_length": 3.3076923076923075,
+    "comment_density": 0.0,
+    "num_variables": 12,
+    "indentation_consistency": 0.022904405916971543,
+    "repetition_score": 0.3220338983050848,
+    "overexplanation_score": 0,
+    "file_name": "48.cpp"
+  },
+  {
+    "avg_var_length": 8.285714285714286,
+    "comment_density": 0.07692307692307693,
+    "num_variables": 6,
+    "indentation_consistency": 0.0841995841995842,
+    "repetition_score": 0.1515151515151515,
+    "overexplanation_score": 9.333333333333334,
+    "file_name": "480.cpp"
+  },
+  {
+    "avg_var_length": 1.8461538461538463,
+    "comment_density": 0.015384615384615385,
+    "num_variables": 12,
+    "indentation_consistency": 0.07432201319325679,
+    "repetition_score": 0.16000000000000003,
+    "overexplanation_score": 7.0,
+    "file_name": "481.cpp"
+  },
+  {
+    "avg_var_length": 3.7333333333333334,
+    "comment_density": 0.0,
+    "num_variables": 14,
+    "indentation_consistency": 0.06714898015016561,
+    "repetition_score": 0.2321428571428571,
+    "overexplanation_score": 0,
+    "file_name": "482.cpp"
+  },
+  {
+    "avg_var_length": 4.066666666666666,
+    "comment_density": 0.05263157894736842,
+    "num_variables": 59,
+    "indentation_consistency": 0.044651716610438576,
+    "repetition_score": 0.02941176470588236,
+    "overexplanation_score": 7.0,
+    "file_name": "483.py"
+  },
+  {
+    "avg_var_length": 2.6666666666666665,
+    "comment_density": 0.14814814814814814,
+    "num_variables": 5,
+    "indentation_consistency": 0.5161290322580645,
+    "repetition_score": 0.1428571428571429,
+    "overexplanation_score": 6.25,
+    "file_name": "484.cpp"
+  },
+  {
+    "avg_var_length": 1.3333333333333333,
+    "comment_density": 0.06,
+    "num_variables": 5,
+    "indentation_consistency": 0.0768265914079649,
+    "repetition_score": 0.19047619047619047,
+    "overexplanation_score": 6.0,
+    "file_name": "485.cpp"
+  },
+  {
+    "avg_var_length": 3.3333333333333335,
+    "comment_density": 0.0,
+    "num_variables": 8,
+    "indentation_consistency": 0.12040085898353613,
+    "repetition_score": 0.21212121212121215,
+    "overexplanation_score": 0,
+    "file_name": "486.cpp"
+  },
+  {
+    "avg_var_length": 4.333333333333333,
+    "comment_density": 0.047619047619047616,
+    "num_variables": 29,
+    "indentation_consistency": 0.0955342001130582,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 3.0,
+    "file_name": "487.py"
+  },
+  {
+    "avg_var_length": 7.0,
+    "comment_density": 0.07142857142857142,
+    "num_variables": 2,
+    "indentation_consistency": 0.14414414414414414,
+    "repetition_score": 0.20833333333333337,
+    "overexplanation_score": 3.0,
+    "file_name": "488.cpp"
+  },
+  {
+    "avg_var_length": 4.228571428571429,
+    "comment_density": 0.12121212121212122,
+    "num_variables": 34,
+    "indentation_consistency": 0.12108033875028613,
+    "repetition_score": 0.040000000000000036,
+    "overexplanation_score": 9.75,
+    "file_name": "489.py"
+  },
+  {
+    "avg_var_length": 2.0,
+    "comment_density": 0.07692307692307693,
+    "num_variables": 7,
+    "indentation_consistency": 0.2808988764044943,
+    "repetition_score": 0.15000000000000002,
+    "overexplanation_score": 6.5,
+    "file_name": "49.cpp"
+  },
+  {
+    "avg_var_length": 6.470588235294118,
+    "comment_density": 0.05263157894736842,
+    "num_variables": 33,
+    "indentation_consistency": 0.029126213592233007,
+    "repetition_score": 0.05555555555555558,
+    "overexplanation_score": 3.0,
+    "file_name": "490.py"
+  },
+  {
+    "avg_var_length": 3.943661971830986,
+    "comment_density": 0.09302325581395349,
+    "num_variables": 70,
+    "indentation_consistency": 0.05373635600335852,
+    "repetition_score": 0.11111111111111116,
+    "overexplanation_score": 6.0,
+    "file_name": "491.py"
+  },
+  {
+    "avg_var_length": 2.230769230769231,
+    "comment_density": 0.01694915254237288,
+    "num_variables": 12,
+    "indentation_consistency": 0.05462495199267332,
+    "repetition_score": 0.23076923076923073,
+    "overexplanation_score": 3.0,
+    "file_name": "492.cpp"
+  },
+  {
+    "avg_var_length": 2.75,
+    "comment_density": 0.09090909090909091,
+    "num_variables": 3,
+    "indentation_consistency": 1.0,
+    "repetition_score": 0.09999999999999998,
+    "overexplanation_score": 12.0,
+    "file_name": "493.cpp"
+  },
+  {
+    "avg_var_length": 3.8333333333333335,
+    "comment_density": 0.0,
+    "num_variables": 5,
+    "indentation_consistency": 0.08283175695041557,
+    "repetition_score": 0.24,
+    "overexplanation_score": 0,
+    "file_name": "494.cpp"
+  },
+  {
+    "avg_var_length": 3.328358208955224,
+    "comment_density": 0.07317073170731707,
+    "num_variables": 66,
+    "indentation_consistency": 0.07294648278254837,
+    "repetition_score": 0.027027027027026973,
+    "overexplanation_score": 4.666666666666667,
+    "file_name": "495.py"
+  },
+  {
+    "avg_var_length": 5.111111111111111,
+    "comment_density": 0.027777777777777776,
+    "num_variables": 8,
+    "indentation_consistency": 0.10832587287376898,
+    "repetition_score": 0.2068965517241379,
+    "overexplanation_score": 4.0,
+    "file_name": "496.cpp"
+  },
+  {
+    "avg_var_length": 6.25,
+    "comment_density": 0.14634146341463414,
+    "num_variables": 7,
+    "indentation_consistency": 0.11428571428571428,
+    "repetition_score": 0.15625,
+    "overexplanation_score": 9.5,
+    "file_name": "497.cpp"
+  },
+  {
+    "avg_var_length": 1.6666666666666667,
+    "comment_density": 0.08695652173913043,
+    "num_variables": 5,
+    "indentation_consistency": 0.12328767123287672,
+    "repetition_score": 0.19444444444444442,
+    "overexplanation_score": 10.25,
+    "file_name": "498.cpp"
+  },
+  {
+    "avg_var_length": 6.341463414634147,
+    "comment_density": 0.03125,
+    "num_variables": 40,
+    "indentation_consistency": 0.09020249539783189,
+    "repetition_score": 0.06896551724137934,
+    "overexplanation_score": 7.0,
+    "file_name": "499.py"
+  },
+  {
+    "avg_var_length": 5.46875,
+    "comment_density": 0.24444444444444444,
+    "num_variables": 31,
+    "indentation_consistency": 0.059112997478009466,
+    "repetition_score": 0.02777777777777779,
+    "overexplanation_score": 7.7272727272727275,
+    "file_name": "5.py"
+  },
+  {
+    "avg_var_length": 2.037037037037037,
+    "comment_density": 0.17647058823529413,
+    "num_variables": 26,
+    "indentation_consistency": 0.2195121951219512,
+    "repetition_score": 0.06666666666666665,
+    "overexplanation_score": 4.0,
+    "file_name": "50.py"
+  },
+  {
+    "avg_var_length": 1.2,
+    "comment_density": 0.10666666666666667,
+    "num_variables": 9,
+    "indentation_consistency": 0.10018874465544464,
+    "repetition_score": 0.21311475409836067,
+    "overexplanation_score": 7.5,
+    "file_name": "51.cpp"
+  },
+  {
+    "avg_var_length": 3.611111111111111,
+    "comment_density": 0.012987012987012988,
+    "num_variables": 17,
+    "indentation_consistency": 0.06331959535406513,
+    "repetition_score": 0.21875,
+    "overexplanation_score": 6.0,
+    "file_name": "52.cpp"
+  },
+  {
+    "avg_var_length": 1.3571428571428572,
+    "comment_density": 0.1111111111111111,
+    "num_variables": 13,
+    "indentation_consistency": 0.21951219512195122,
+    "repetition_score": 0.125,
+    "overexplanation_score": 3.0,
+    "file_name": "53.py"
+  },
+  {
+    "avg_var_length": 3.4444444444444446,
+    "comment_density": 0.10344827586206896,
+    "num_variables": 26,
+    "indentation_consistency": 0.07624153078698533,
+    "repetition_score": 0.28378378378378377,
+    "overexplanation_score": 4.666666666666667,
+    "file_name": "54.cpp"
+  },
+  {
+    "avg_var_length": 3.125,
+    "comment_density": 0.05405405405405406,
+    "num_variables": 15,
+    "indentation_consistency": 0.07874451684340532,
+    "repetition_score": 0.15517241379310343,
+    "overexplanation_score": 8.5,
+    "file_name": "55.cpp"
+  },
+  {
+    "avg_var_length": 4.405405405405405,
+    "comment_density": 0.07407407407407407,
+    "num_variables": 36,
+    "indentation_consistency": 0.14414414414414414,
+    "repetition_score": 0.050000000000000044,
+    "overexplanation_score": 3.0,
+    "file_name": "56.py"
+  },
+  {
+    "avg_var_length": 2.3,
+    "comment_density": 0.07407407407407407,
+    "num_variables": 9,
+    "indentation_consistency": 0.46814404432132956,
+    "repetition_score": 0.18181818181818177,
+    "overexplanation_score": 5.5,
+    "file_name": "57.cpp"
+  },
+  {
+    "avg_var_length": 6.45,
+    "comment_density": 0.22448979591836735,
+    "num_variables": 39,
+    "indentation_consistency": 0.040369088811995385,
+    "repetition_score": 0.023255813953488413,
+    "overexplanation_score": 8.272727272727273,
+    "file_name": "58.py"
+  },
+  {
+    "avg_var_length": 7.5,
+    "comment_density": 0.13333333333333333,
+    "num_variables": 7,
+    "indentation_consistency": 0.022821576763485476,
+    "repetition_score": 0.13888888888888884,
+    "overexplanation_score": 6.833333333333333,
+    "file_name": "59.cpp"
+  },
+  {
+    "avg_var_length": 7.9523809523809526,
+    "comment_density": 0.1794871794871795,
+    "num_variables": 41,
+    "indentation_consistency": 0.05978076618826987,
+    "repetition_score": 0.032258064516129004,
+    "overexplanation_score": 8.428571428571429,
+    "file_name": "6.py"
+  },
+  {
+    "avg_var_length": 3.875,
+    "comment_density": 0.1,
+    "num_variables": 7,
+    "indentation_consistency": 0.3007284079084288,
+    "repetition_score": 0.16666666666666663,
+    "overexplanation_score": 7.0,
+    "file_name": "60.cpp"
+  },
+  {
+    "avg_var_length": 5.469387755102041,
+    "comment_density": 0.19230769230769232,
+    "num_variables": 48,
+    "indentation_consistency": 0.11716975008114253,
+    "repetition_score": 0.045454545454545414,
+    "overexplanation_score": 4.8,
+    "file_name": "61.py"
+  },
+  {
+    "avg_var_length": 6.0,
+    "comment_density": 0.0,
+    "num_variables": 7,
+    "indentation_consistency": 0.15789473684210534,
+    "repetition_score": 0.14814814814814814,
+    "overexplanation_score": 0,
+    "file_name": "62.cpp"
+  },
+  {
+    "avg_var_length": 4.333333333333333,
+    "comment_density": 0.09523809523809523,
+    "num_variables": 29,
+    "indentation_consistency": 0.0955342001130582,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 3.0,
+    "file_name": "63.py"
+  },
+  {
+    "avg_var_length": 3.0,
+    "comment_density": 0.09302325581395349,
+    "num_variables": 7,
+    "indentation_consistency": 0.07335329341317369,
+    "repetition_score": 0.17142857142857137,
+    "overexplanation_score": 7.25,
+    "file_name": "64.cpp"
+  },
+  {
+    "avg_var_length": 5.780487804878049,
+    "comment_density": 0.1,
+    "num_variables": 40,
+    "indentation_consistency": 0.08736462093862815,
+    "repetition_score": 0.04166666666666663,
+    "overexplanation_score": 3.3333333333333335,
+    "file_name": "65.py"
+  },
+  {
+    "avg_var_length": 3.5,
+    "comment_density": 0.14285714285714285,
+    "num_variables": 21,
+    "indentation_consistency": 0.04040404040404041,
+    "repetition_score": 0.07692307692307687,
+    "overexplanation_score": 3.0,
+    "file_name": "66.py"
+  },
+  {
+    "avg_var_length": 1.2857142857142858,
+    "comment_density": 0.0,
+    "num_variables": 6,
+    "indentation_consistency": 0.12696747114375656,
+    "repetition_score": 0.2857142857142857,
+    "overexplanation_score": 0,
+    "file_name": "67.cpp"
+  },
+  {
+    "avg_var_length": 5.666666666666667,
+    "comment_density": 0.1,
+    "num_variables": 17,
+    "indentation_consistency": 0.1111111111111111,
+    "repetition_score": 0.09999999999999998,
+    "overexplanation_score": 9.0,
+    "file_name": "68.py"
+  },
+  {
+    "avg_var_length": 4.166666666666667,
+    "comment_density": 0.0,
+    "num_variables": 5,
+    "indentation_consistency": 0.17087967644084942,
+    "repetition_score": 0.23529411764705888,
+    "overexplanation_score": 0,
+    "file_name": "69.cpp"
+  },
+  {
+    "avg_var_length": 1.5714285714285714,
+    "comment_density": 0.0,
+    "num_variables": 6,
+    "indentation_consistency": 0.2396039603960396,
+    "repetition_score": 0.16666666666666663,
+    "overexplanation_score": 0,
+    "file_name": "7.cpp"
+  },
+  {
+    "avg_var_length": 4.214285714285714,
+    "comment_density": 0.1,
+    "num_variables": 27,
+    "indentation_consistency": 0.09219858156028368,
+    "repetition_score": 0.0625,
+    "overexplanation_score": 3.0,
+    "file_name": "70.py"
+  },
+  {
+    "avg_var_length": 5.0,
+    "comment_density": 0.13793103448275862,
+    "num_variables": 6,
+    "indentation_consistency": 0.27327781983345945,
+    "repetition_score": 0.20833333333333337,
+    "overexplanation_score": 7.75,
+    "file_name": "71.cpp"
+  },
+  {
+    "avg_var_length": 3.8,
+    "comment_density": 0.09090909090909091,
+    "num_variables": 9,
+    "indentation_consistency": 0.3007284079084288,
+    "repetition_score": 0.11538461538461542,
+    "overexplanation_score": 4.0,
+    "file_name": "72.cpp"
+  },
+  {
+    "avg_var_length": 5.083333333333333,
+    "comment_density": 0.19047619047619047,
+    "num_variables": 23,
+    "indentation_consistency": 0.08333333333333333,
+    "repetition_score": 0.05882352941176472,
+    "overexplanation_score": 6.75,
+    "file_name": "73.py"
+  },
+  {
+    "avg_var_length": 4.333333333333333,
+    "comment_density": 0.0,
+    "num_variables": 8,
+    "indentation_consistency": 0.12040085898353613,
+    "repetition_score": 0.21212121212121215,
+    "overexplanation_score": 0,
+    "file_name": "74.cpp"
+  },
+  {
+    "avg_var_length": 4.828947368421052,
+    "comment_density": 0.08888888888888889,
+    "num_variables": 75,
+    "indentation_consistency": 0.0592879802608389,
+    "repetition_score": 0.05405405405405406,
+    "overexplanation_score": 4.0,
+    "file_name": "75.py"
+  },
+  {
+    "avg_var_length": 3.0,
+    "comment_density": 0.0,
+    "num_variables": 5,
+    "indentation_consistency": 0.5011135857461024,
+    "repetition_score": 0.13636363636363635,
+    "overexplanation_score": 0,
+    "file_name": "76.cpp"
+  },
+  {
+    "avg_var_length": 2.9,
+    "comment_density": 0.10606060606060606,
+    "num_variables": 9,
+    "indentation_consistency": 0.10194642513008274,
+    "repetition_score": 0.23636363636363633,
+    "overexplanation_score": 5.0,
+    "file_name": "77.cpp"
+  },
+  {
+    "avg_var_length": 5.416666666666667,
+    "comment_density": 0.06666666666666667,
+    "num_variables": 11,
+    "indentation_consistency": 0.0919409761634506,
+    "repetition_score": 0.11764705882352944,
+    "overexplanation_score": 9.0,
+    "file_name": "78.cpp"
+  },
+  {
+    "avg_var_length": 1.8518518518518519,
+    "comment_density": 0.21052631578947367,
+    "num_variables": 26,
+    "indentation_consistency": 0.08908803373748023,
+    "repetition_score": 0.1875,
+    "overexplanation_score": 9.75,
+    "file_name": "79.py"
+  },
+  {
+    "avg_var_length": 5.788732394366197,
+    "comment_density": 0.1836734693877551,
+    "num_variables": 70,
+    "indentation_consistency": 0.07163323782234961,
+    "repetition_score": 0.025000000000000022,
+    "overexplanation_score": 5.333333333333333,
+    "file_name": "8.py"
+  },
+  {
+    "avg_var_length": 3.0526315789473686,
+    "comment_density": 0.014705882352941176,
+    "num_variables": 18,
+    "indentation_consistency": 0.07984959079849588,
+    "repetition_score": 0.35185185185185186,
+    "overexplanation_score": 10.0,
+    "file_name": "80.cpp"
+  },
+  {
+    "avg_var_length": 2.0833333333333335,
+    "comment_density": 0.1,
+    "num_variables": 11,
+    "indentation_consistency": 0.05997552019583837,
+    "repetition_score": 0.21568627450980393,
+    "overexplanation_score": 5.5,
+    "file_name": "81.cpp"
+  },
+  {
+    "avg_var_length": 1.8,
+    "comment_density": 0.2,
+    "num_variables": 14,
+    "indentation_consistency": 0.2808988764044943,
+    "repetition_score": 0.11111111111111116,
+    "overexplanation_score": 3.0,
+    "file_name": "82.py"
+  },
+  {
+    "avg_var_length": 8.666666666666666,
+    "comment_density": 0.0,
+    "num_variables": 29,
+    "indentation_consistency": 0.10298598415600244,
+    "repetition_score": 0.0625,
+    "overexplanation_score": 0,
+    "file_name": "83.py"
+  },
+  {
+    "avg_var_length": 4.518518518518518,
+    "comment_density": 0.0,
+    "num_variables": 26,
+    "indentation_consistency": 0.2139737991266376,
+    "repetition_score": 0.1428571428571429,
+    "overexplanation_score": 0,
+    "file_name": "84.py"
+  },
+  {
+    "avg_var_length": 1.1666666666666667,
+    "comment_density": 0.0,
+    "num_variables": 11,
+    "indentation_consistency": 0.09919369960622539,
+    "repetition_score": 0.2592592592592593,
+    "overexplanation_score": 0,
+    "file_name": "85.cpp"
+  },
+  {
+    "avg_var_length": 2.0833333333333335,
+    "comment_density": 0.03571428571428571,
+    "num_variables": 11,
+    "indentation_consistency": 0.059152957647882386,
+    "repetition_score": 0.23404255319148937,
+    "overexplanation_score": 5.5,
+    "file_name": "86.cpp"
+  },
+  {
+    "avg_var_length": 7.0,
+    "comment_density": 0.0,
+    "num_variables": 7,
+    "indentation_consistency": 0.172737955346651,
+    "repetition_score": 0.14814814814814814,
+    "overexplanation_score": 0,
+    "file_name": "87.cpp"
+  },
+  {
+    "avg_var_length": 5.808510638297872,
+    "comment_density": 0.20512820512820512,
+    "num_variables": 46,
+    "indentation_consistency": 0.09744478129060197,
+    "repetition_score": 0.03125,
+    "overexplanation_score": 6.875,
+    "file_name": "88.py"
+  },
+  {
+    "avg_var_length": 4.375,
+    "comment_density": 0.02857142857142857,
+    "num_variables": 7,
+    "indentation_consistency": 0.07462265481732262,
+    "repetition_score": 0.19354838709677424,
+    "overexplanation_score": 3.0,
+    "file_name": "89.cpp"
+  },
+  {
+    "avg_var_length": 4.888888888888889,
+    "comment_density": 0.06976744186046512,
+    "num_variables": 8,
+    "indentation_consistency": 0.13549832026875705,
+    "repetition_score": 0.1515151515151515,
+    "overexplanation_score": 8.666666666666666,
+    "file_name": "9.cpp"
+  },
+  {
+    "avg_var_length": 4.0,
+    "comment_density": 0.02702702702702703,
+    "num_variables": 6,
+    "indentation_consistency": 0.11145510835913305,
+    "repetition_score": 0.19999999999999996,
+    "overexplanation_score": 5.0,
+    "file_name": "90.cpp"
+  },
+  {
+    "avg_var_length": 3.0,
+    "comment_density": 0.0,
+    "num_variables": 5,
+    "indentation_consistency": 0.46814404432132956,
+    "repetition_score": 0.13636363636363635,
+    "overexplanation_score": 0,
+    "file_name": "91.cpp"
+  },
+  {
+    "avg_var_length": 4.333333333333333,
+    "comment_density": 0.0392156862745098,
+    "num_variables": 8,
+    "indentation_consistency": 0.17488043252235397,
+    "repetition_score": 0.16666666666666663,
+    "overexplanation_score": 12.0,
+    "file_name": "92.cpp"
+  },
+  {
+    "avg_var_length": 3.864406779661017,
+    "comment_density": 0.23076923076923078,
+    "num_variables": 58,
+    "indentation_consistency": 0.055350553505535055,
+    "repetition_score": 0.05714285714285716,
+    "overexplanation_score": 6.666666666666667,
+    "file_name": "93.py"
+  },
+  {
+    "avg_var_length": 5.0,
+    "comment_density": 0.02127659574468085,
+    "num_variables": 9,
+    "indentation_consistency": 0.1349145626115787,
+    "repetition_score": 0.16666666666666663,
+    "overexplanation_score": 7.0,
+    "file_name": "94.cpp"
+  },
+  {
+    "avg_var_length": 3.1,
+    "comment_density": 0.05555555555555555,
+    "num_variables": 29,
+    "indentation_consistency": 0.05827505827505827,
+    "repetition_score": 0.0714285714285714,
+    "overexplanation_score": 3.0,
+    "file_name": "95.py"
+  },
+  {
+    "avg_var_length": 5.462962962962963,
+    "comment_density": 0.14285714285714285,
+    "num_variables": 53,
+    "indentation_consistency": 0.11044327573253195,
+    "repetition_score": 0.04347826086956519,
+    "overexplanation_score": 4.0,
+    "file_name": "96.py"
+  },
+  {
+    "avg_var_length": 2.1,
+    "comment_density": 0.2631578947368421,
+    "num_variables": 19,
+    "indentation_consistency": 0.3103448275862069,
+    "repetition_score": 0.06666666666666665,
+    "overexplanation_score": 4.4,
+    "file_name": "97.py"
+  },
+  {
+    "avg_var_length": 4.764705882352941,
+    "comment_density": 0.0,
+    "num_variables": 16,
+    "indentation_consistency": 0.02894736842105263,
+    "repetition_score": 0.16666666666666663,
+    "overexplanation_score": 0,
+    "file_name": "98.cpp"
+  },
+  {
+    "avg_var_length": 6.176470588235294,
+    "comment_density": 0.15384615384615385,
+    "num_variables": 16,
+    "indentation_consistency": 0.0745814307458143,
+    "repetition_score": 0.08333333333333337,
+    "overexplanation_score": 4.5,
+    "file_name": "99.py"
+  }
+]
