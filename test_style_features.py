@@ -28,6 +28,7 @@ def load_feature_namespace():
 FEATURES = load_feature_namespace()
 analyze_code_style = FEATURES["analyze_code_style"]
 extract_style_features = FEATURES["extract_style_features"]
+comment_data = FEATURES["_comment_data"]
 
 
 class StyleFeatureTests(unittest.TestCase):
@@ -46,6 +47,21 @@ class StyleFeatureTests(unittest.TestCase):
         result = analyze_code_style(code, ".py")
         self.assertEqual(result["overexplanation_score"], 1.0)
 
+    def test_python_comment_masking_handles_crlf_offsets(self):
+        code = "value = 1\r\n# comment\r\nother = 2 # tail\r\n"
+        masked, comments, comment_lines = comment_data(code, ".py")
+        self.assertEqual(comment_lines, {2, 3})
+        self.assertEqual(comments, ["comment", "tail"])
+        self.assertEqual(masked.splitlines(), ["value = 1", "         ", "other = 2       "])
+        self.assertAlmostEqual(extract_style_features(code, ".py")["comment_density"], 2 / 3)
+
+    def test_multiline_comment_counts_each_physical_line_once(self):
+        code = "int first;\n/* first\n second\n third */\nint second;\n"
+        result = extract_style_features(code, ".cpp")
+        self.assertAlmostEqual(result["comment_density"], 3 / 5)
+        result = analyze_code_style(code, ".cpp")
+        self.assertEqual(result["overexplanation_score"], 3.0)
+
     def test_c_cpp_csharp_and_pascal_declarations(self):
         samples = {
             ".c": "int count = 0; // count\ncount++;\n",
@@ -60,6 +76,16 @@ class StyleFeatureTests(unittest.TestCase):
                 self.assertTrue(all(value >= 0 for value in result.values()))
         self.assertEqual(extract_style_features(samples[".pas"], ".pas")["num_variables"], 2)
         self.assertAlmostEqual(extract_style_features(samples[".c"], ".c")["comment_density"], 0.5)
+
+    def test_common_qualified_and_initializer_declarations(self):
+        cpp = (
+            "std::vector<int> values = make_values(3), backup;\n"
+            "int first = make(1), second = 2;\n"
+            "int function(int argument);\n"
+        )
+        self.assertEqual(extract_style_features(cpp, ".cpp")["num_variables"], 4)
+        csharp = "System.String name = GetName(), alias;\n"
+        self.assertEqual(extract_style_features(csharp, ".cs")["num_variables"], 2)
 
     def test_empty_and_comment_free_inputs(self):
         result = analyze_code_style("", ".py")
