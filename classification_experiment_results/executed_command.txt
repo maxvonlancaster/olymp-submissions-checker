@@ -1,0 +1,1 @@
+C:\Users\hmeln\sources\repos\olymp-submissions-checker\.venv\Scripts\python.exe C:\Users\hmeln\sources\repos\olymp-submissions-checker\run_main_classification_experiment.py
